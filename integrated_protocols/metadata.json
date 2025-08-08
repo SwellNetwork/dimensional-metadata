@@ -3,120 +3,140 @@
     "id": "hwhlp_999",
     "name": "Hyperwave hwHLP",
     "protocol": "Hyperwave",
-    "symbol": "hwHLP"
+    "symbol": "hwHLP",
+    "type": "USD"
   },
   "hyperbeat_usdt_999": {
     "id": "hyperbeat_usdt_999",
     "name": "Hyperbeat hbUSDT",
     "protocol": "Hyperbeat",
-    "symbol": "hbUSDT"
+    "symbol": "hbUSDT",
+    "type": "USD"
   },
   "whlp_999": {
     "id": "whlp_999",
     "name": "Looping Collective wHLP",
     "protocol": "Looping Collective",
-    "symbol": "wHLP"
+    "symbol": "wHLP",
+    "type": "USD"
   },
   "hypurrfi_hywsthype_999": {
     "id": "hypurrfi_hywsthype_999",
     "name": "HypurrFi hywstHYPE",
     "protocol": "HypurrFi",
-    "symbol": "hywstHYPE"
+    "symbol": "hywstHYPE",
+    "type": "HYPE"
   },
   "hypurrfi_hyusdt0_999": {
     "id": "hypurrfi_hyusdt0_999",
     "name": "HypurrFi hyUSDT0",
     "protocol": "HypurrFi",
-    "symbol": "hyUSDT0"
+    "symbol": "hyUSDT0",
+    "type": "USD"
   },
   "hypurrfi_hyusde_999": {
     "id": "hypurrfi_hyusde_999",
     "name": "HypurrFi hyUSDe",
     "protocol": "HypurrFi",
-    "symbol": "hyUSDe"
+    "symbol": "hyUSDe",
+    "type": "USD"
   },
   "hypurrfi_hykhype_999": {
     "id": "hypurrfi_hykhype_999",
     "name": "HypurrFi hykHYPE",
     "protocol": "HypurrFi",
-    "symbol": "hykHYPE"
+    "symbol": "hykHYPE",
+    "type": "HYPE"
   },
   "hypurrfi_hywhype_999": {
     "id": "hypurrfi_hywhype_999",
     "name": "HypurrFi hywHYPE",
     "protocol": "HypurrFi",
-    "symbol": "hywHYPE"
+    "symbol": "hywHYPE",
+    "type": "HYPE"
   },
   "hypurrfi_hyusdhl_999": {
     "id": "hypurrfi_hyusdhl_999",
     "name": "HypurrFi hyUSDhl",
     "protocol": "HypurrFi",
-    "symbol": "hyUSDhl"
+    "symbol": "hyUSDhl",
+    "type": "USD"
   },
   "hyperlend_husdhl_999": {
     "id": "hyperlend_husdhl_999",
     "name": "HyperLend hUSDhl",
     "protocol": "HyperLend",
-    "symbol": "hUSDhl"
+    "symbol": "hUSDhl",
+    "type": "USD"
   },
   "hyperlend_husdt0_999": {
     "id": "hyperlend_husdt0_999",
     "name": "HyperLend hUSDT0",
     "protocol": "HyperLend",
-    "symbol": "hUSDT0"
+    "symbol": "hUSDT0",
+    "type": "USD"
   },
   "hyperlend_hwsthype_999": {
     "id": "hyperlend_hwsthype_999",
     "name": "HyperLend hwstHYPE",
     "protocol": "HyperLend",
-    "symbol": "hwstHYPE"
+    "symbol": "hwstHYPE",
+    "type": "HYPE"
   },
   "hyperlend_hkhype_999": {
     "id": "hyperlend_hkhype_999",
     "name": "HyperLend hkHYPE",
     "protocol": "HyperLend",
-    "symbol": "hkHYPE"
+    "symbol": "hkHYPE",
+    "type": "HYPE"
   },
   "hyperlend_hwhype_999": {
     "id": "hyperlend_hwhype_999",
     "name": "HyperLend hwHYPE",
     "protocol": "HyperLend",
-    "symbol": "hwHYPE"
+    "symbol": "hwHYPE",
+    "type": "HYPE"
   },
   "hyperlend_husde_999": {
     "id": "hyperlend_husde_999",
     "name": "HyperLend hUSDe",
     "protocol": "HyperLend",
-    "symbol": "hUSDe"
+    "symbol": "hUSDe",
+    "type": "USD"
   },
   "hyperliquid_hbhype_999": {
     "id": "hyperliquid_hbhype_999",
     "name": "Hyperbeat hbHYPE",
     "protocol": "Hyperbeat",
-    "symbol": "hbHYPE"
+    "symbol": "hbHYPE",
+    "type": "HYPE"
   },
   "hyperliquid_khype_999": {
     "id": "hyperliquid_khype_999",
     "name": "Kinetiq kHYPE",
     "protocol": "Kinetiq",
-    "symbol": "kHYPE"
+    "symbol": "kHYPE",
+    "type": "HYPE"
   },
   "hyperliquid_whype_999": {
     "id": "hyperliquid_whype_999",
     "name": "Hyperliquid wHYPE",
     "protocol": "Hyperliquid",
-    "symbol": "wHYPE"
+    "symbol": "wHYPE",
+    "type": "HYPE"
   },
   "hyperliquid_lhype_999": {
     "id": "hyperliquid_lhype_999",
     "name": "Looping Collective lHYPE",
     "protocol": "Looping Collective",
-    "symbol": "lHYPE"
+    "symbol": "lHYPE",
+    "type": "HYPE"
   },
   "hyperliquid_behype_999": {
     "id": "hyperliquid_behype_999",
     "name": "EtherFi beHYPE",
     "protocol": "EtherFi",
-    "symbol": "beHYPE"
+    "symbol": "beHYPE",
+    "type": "HYPE"
   }
 }
