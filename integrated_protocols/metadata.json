@@ -1,0 +1,122 @@
+{
+  "hwhlp_999": {
+    "id": "hwhlp_999",
+    "name": "Hyperwave hwHLP",
+    "protocol": "Hyperwave",
+    "symbol": "hwHLP"
+  },
+  "hyperbeat_usdt_999": {
+    "id": "hyperbeat_usdt_999",
+    "name": "Hyperbeat hbUSDT",
+    "protocol": "Hyperbeat",
+    "symbol": "hbUSDT"
+  },
+  "whlp_999": {
+    "id": "whlp_999",
+    "name": "Looping Collective wHLP",
+    "protocol": "Looping Collective",
+    "symbol": "wHLP"
+  },
+  "hypurrfi_hywsthype_999": {
+    "id": "hypurrfi_hywsthype_999",
+    "name": "HypurrFi hywstHYPE",
+    "protocol": "HypurrFi",
+    "symbol": "hywstHYPE"
+  },
+  "hypurrfi_hyusdt0_999": {
+    "id": "hypurrfi_hyusdt0_999",
+    "name": "HypurrFi hyUSDT0",
+    "protocol": "HypurrFi",
+    "symbol": "hyUSDT0"
+  },
+  "hypurrfi_hyusde_999": {
+    "id": "hypurrfi_hyusde_999",
+    "name": "HypurrFi hyUSDe",
+    "protocol": "HypurrFi",
+    "symbol": "hyUSDe"
+  },
+  "hypurrfi_hykhype_999": {
+    "id": "hypurrfi_hykhype_999",
+    "name": "HypurrFi hykHYPE",
+    "protocol": "HypurrFi",
+    "symbol": "hykHYPE"
+  },
+  "hypurrfi_hywhype_999": {
+    "id": "hypurrfi_hywhype_999",
+    "name": "HypurrFi hywHYPE",
+    "protocol": "HypurrFi",
+    "symbol": "hywHYPE"
+  },
+  "hypurrfi_hyusdhl_999": {
+    "id": "hypurrfi_hyusdhl_999",
+    "name": "HypurrFi hyUSDhl",
+    "protocol": "HypurrFi",
+    "symbol": "hyUSDhl"
+  },
+  "hyperlend_husdhl_999": {
+    "id": "hyperlend_husdhl_999",
+    "name": "HyperLend hUSDhl",
+    "protocol": "HyperLend",
+    "symbol": "hUSDhl"
+  },
+  "hyperlend_husdt0_999": {
+    "id": "hyperlend_husdt0_999",
+    "name": "HyperLend hUSDT0",
+    "protocol": "HyperLend",
+    "symbol": "hUSDT0"
+  },
+  "hyperlend_hwsthype_999": {
+    "id": "hyperlend_hwsthype_999",
+    "name": "HyperLend hwstHYPE",
+    "protocol": "HyperLend",
+    "symbol": "hwstHYPE"
+  },
+  "hyperlend_hkhype_999": {
+    "id": "hyperlend_hkhype_999",
+    "name": "HyperLend hkHYPE",
+    "protocol": "HyperLend",
+    "symbol": "hkHYPE"
+  },
+  "hyperlend_hwhype_999": {
+    "id": "hyperlend_hwhype_999",
+    "name": "HyperLend hwHYPE",
+    "protocol": "HyperLend",
+    "symbol": "hwHYPE"
+  },
+  "hyperlend_husde_999": {
+    "id": "hyperlend_husde_999",
+    "name": "HyperLend hUSDe",
+    "protocol": "HyperLend",
+    "symbol": "hUSDe"
+  },
+  "hyperliquid_hbhype_999": {
+    "id": "hyperliquid_hbhype_999",
+    "name": "Hyperbeat hbHYPE",
+    "protocol": "Hyperbeat",
+    "symbol": "hbHYPE"
+  },
+  "hyperliquid_khype_999": {
+    "id": "hyperliquid_khype_999",
+    "name": "Kinetiq kHYPE",
+    "protocol": "Kinetiq",
+    "symbol": "kHYPE"
+  },
+  "hyperliquid_whype_999": {
+    "id": "hyperliquid_whype_999",
+    "name": "Hyperliquid wHYPE",
+    "protocol": "Hyperliquid",
+    "symbol": "wHYPE"
+  },
+  "hyperliquid_lhype_999": {
+    "id": "hyperliquid_lhype_999",
+    "name": "Looping Collective lHYPE",
+    "protocol": "Looping Collective",
+    "symbol": "lHYPE"
+  },
+  "hyperliquid_behype_999": {
+    "id": "hyperliquid_behype_999",
+    "name": "EtherFi beHYPE",
+    "protocol": "EtherFi",
+    "symbol": "beHYPE"
+  }
+}
