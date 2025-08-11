@@ -1,0 +1,170 @@
+{
+  "hwhlp_999": {
+    "id": "hwhlp_999",
+    "name": "Hyperwave hwHLP",
+    "protocol": "Hyperwave",
+    "symbol": "hwHLP",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.svg",
+    "type": "USD"
+  },
+  "hwhype_999": {
+    "id": "hwhype_999",
+    "name": "Hyperwave hwHYPE",
+    "protocol": "Hyperwave",
+    "symbol": "hwHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0x4de03ca1f02591b717495cfa19913ad56a2f5858.svg",
+    "type": "HYPE"
+  },
+  "hyperbeat_usdt_999": {
+    "id": "hyperbeat_usdt_999",
+    "name": "Hyperbeat hbUSDT",
+    "protocol": "Hyperbeat",
+    "symbol": "hbUSDT",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0x5e105266db42f78FA814322Bce7f388B4C2e61eb.svg",
+    "type": "USD"
+  },
+  "whlp_999": {
+    "id": "whlp_999",
+    "name": "Looping Collective wHLP",
+    "protocol": "Looping Collective",
+    "symbol": "wHLP",
+    "imageUrl": "https://app.hypurr.fi/tokens/whlp.png",
+    "type": "USD"
+  },
+  "hypurrfi_hywsthype_999": {
+    "id": "hypurrfi_hywsthype_999",
+    "name": "HypurrFi hywstHYPE",
+    "protocol": "HypurrFi",
+    "symbol": "hywstHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg",
+    "type": "HYPE"
+  },
+  "hypurrfi_hyusdt0_999": {
+    "id": "hypurrfi_hyusdt0_999",
+    "name": "HypurrFi hyUSDT0",
+    "protocol": "HypurrFi",
+    "symbol": "hyUSDT0",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
+    "type": "USD"
+  },
+  "hypurrfi_hyusde_999": {
+    "id": "hypurrfi_hyusde_999",
+    "name": "HypurrFi hyUSDe",
+    "protocol": "HypurrFi",
+    "symbol": "hyUSDe",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
+    "type": "USD"
+  },
+  "hypurrfi_hykhype_999": {
+    "id": "hypurrfi_hykhype_999",
+    "name": "HypurrFi hykHYPE",
+    "protocol": "HypurrFi",
+    "symbol": "hykHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
+    "type": "HYPE"
+  },
+  "hypurrfi_hywhype_999": {
+    "id": "hypurrfi_hywhype_999",
+    "name": "HypurrFi hywHYPE",
+    "protocol": "HypurrFi",
+    "symbol": "hywHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0x5555555555555555555555555555555555555555.svg",
+    "type": "HYPE"
+  },
+  "hypurrfi_hyusdhl_999": {
+    "id": "hypurrfi_hyusdhl_999",
+    "name": "HypurrFi hyUSDhl",
+    "protocol": "HypurrFi",
+    "symbol": "hyUSDhl",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.svg",
+    "type": "USD"
+  },
+  "hyperlend_husdhl_999": {
+    "id": "hyperlend_husdhl_999",
+    "name": "HyperLend hUSDhl",
+    "protocol": "HyperLend",
+    "symbol": "hUSDhl",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.svg",
+    "type": "USD"
+  },
+  "hyperlend_husdt0_999": {
+    "id": "hyperlend_husdt0_999",
+    "name": "HyperLend hUSDT0",
+    "protocol": "HyperLend",
+    "symbol": "hUSDT0",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
+    "type": "USD"
+  },
+  "hyperlend_hwsthype_999": {
+    "id": "hyperlend_hwsthype_999",
+    "name": "HyperLend hwstHYPE",
+    "protocol": "HyperLend",
+    "symbol": "hwstHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg",
+    "type": "HYPE"
+  },
+  "hyperlend_hkhype_999": {
+    "id": "hyperlend_hkhype_999",
+    "name": "HyperLend hkHYPE",
+    "protocol": "HyperLend",
+    "symbol": "hkHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
+    "type": "HYPE"
+  },
+  "hyperlend_hwhype_999": {
+    "id": "hyperlend_hwhype_999",
+    "name": "HyperLend hwHYPE",
+    "protocol": "HyperLend",
+    "symbol": "hwHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0x5555555555555555555555555555555555555555.svg",
+    "type": "HYPE"
+  },
+  "hyperlend_husde_999": {
+    "id": "hyperlend_husde_999",
+    "name": "HyperLend hUSDe",
+    "protocol": "HyperLend",
+    "symbol": "hUSDe",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
+    "type": "USD"
+  },
+  "hyperliquid_hbhype_999": {
+    "id": "hyperliquid_hbhype_999",
+    "name": "Hyperbeat hbHYPE",
+    "protocol": "Hyperbeat",
+    "symbol": "hbHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB.svg",
+    "type": "HYPE"
+  },
+  "hyperliquid_khype_999": {
+    "id": "hyperliquid_khype_999",
+    "name": "Kinetiq kHYPE",
+    "protocol": "Kinetiq",
+    "symbol": "kHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
+    "type": "HYPE"
+  },
+  "hyperliquid_whype_999": {
+    "id": "hyperliquid_whype_999",
+    "name": "Hyperliquid wHYPE",
+    "protocol": "Hyperliquid",
+    "symbol": "wHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0x5555555555555555555555555555555555555555.svg",
+    "type": "HYPE"
+  },
+  "hyperliquid_lhype_999": {
+    "id": "hyperliquid_lhype_999",
+    "name": "Looping Collective lHYPE",
+    "protocol": "Looping Collective",
+    "symbol": "lHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0x5748ae796ae46a4f1348a1693de4b50560485562.svg",
+    "type": "HYPE"
+  },
+  "hyperliquid_behype_999": {
+    "id": "hyperliquid_behype_999",
+    "name": "EtherFi beHYPE",
+    "protocol": "EtherFi",
+    "symbol": "beHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/9fe7ab6a3b59ec341fb7eca45924173abf9c90e3/tokens/999/0x441794D6a8F9A3739F5D4E98a728937b33489D29.svg",
+    "type": "HYPE"
+  }
+}
