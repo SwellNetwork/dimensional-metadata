@@ -187,5 +187,14 @@
     "symbol": "beHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg",
     "type": "HYPE"
+  },
+  "kinetiq_earn_khype_999": {
+    "id": "kinetiq_earn_khype_999",
+    "name": "Kinetiq Earn vkHYPE",
+    "protocol": "Kinetiq",
+    "category": "LST",
+    "symbol": "vkHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg",
+    "type": "HYPE"
   }
 }
