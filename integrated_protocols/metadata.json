@@ -2,6 +2,7 @@
   "hwhlp_999": {
     "id": "hwhlp_999",
     "name": "Hyperwave hwHLP",
+    "category": "Yield",
     "protocol": "Hyperwave",
     "symbol": "hwHLP",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.svg",
@@ -10,6 +11,7 @@
   "hwhype_999": {
     "id": "hwhype_999",
     "name": "Hyperwave hwHYPE",
+    "category": "Yield",
     "protocol": "Hyperwave",
     "symbol": "hwHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x4de03ca1f02591b717495cfa19913ad56a2f5858.svg",
@@ -18,6 +20,7 @@
   "hyperbeat_usdt_999": {
     "id": "hyperbeat_usdt_999",
     "name": "Hyperbeat hbUSDT",
+    "category": "Yield",
     "protocol": "Hyperbeat",
     "symbol": "hbUSDT",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5e105266db42f78fa814322bce7f388b4c2e61eb.svg",
@@ -27,6 +30,7 @@
     "id": "whlp_999",
     "name": "Looping Collective wHLP",
     "protocol": "Looping Collective",
+    "category": "Yield",
     "symbol": "wHLP",
     "imageUrl": "https://app.hypurr.fi/tokens/whlp.png",
     "type": "USD"
@@ -34,6 +38,7 @@
   "hypurrfi_hywsthype_999": {
     "id": "hypurrfi_hywsthype_999",
     "name": "HypurrFi hywstHYPE",
+    "category": "Lending",
     "protocol": "HypurrFi",
     "symbol": "hywstHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg",
@@ -42,6 +47,7 @@
   "hypurrfi_hyusdt0_999": {
     "id": "hypurrfi_hyusdt0_999",
     "name": "HypurrFi hyUSDT0",
+    "category": "Lending",
     "protocol": "HypurrFi",
     "symbol": "hyUSDT0",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
@@ -50,6 +56,7 @@
   "hypurrfi_hyusde_999": {
     "id": "hypurrfi_hyusde_999",
     "name": "HypurrFi hyUSDe",
+    "category": "Lending",
     "protocol": "HypurrFi",
     "symbol": "hyUSDe",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
@@ -58,6 +65,7 @@
   "hypurrfi_hykhype_999": {
     "id": "hypurrfi_hykhype_999",
     "name": "HypurrFi hykHYPE",
+    "category": "Lending",
     "protocol": "HypurrFi",
     "symbol": "hykHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
@@ -66,6 +74,7 @@
   "hypurrfi_hywhype_999": {
     "id": "hypurrfi_hywhype_999",
     "name": "HypurrFi hywHYPE",
+    "category": "Lending",
     "protocol": "HypurrFi",
     "symbol": "hywHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
@@ -75,6 +84,7 @@
     "id": "hypurrfi_hyusdhl_999",
     "name": "HypurrFi hyUSDhl",
     "protocol": "HypurrFi",
+    "category": "Lending",
     "symbol": "hyUSDhl",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.svg",
     "type": "USD"
@@ -83,6 +93,7 @@
     "id": "hyperlend_husdhl_999",
     "name": "HyperLend hUSDhl",
     "protocol": "HyperLend",
+    "category": "Lending",
     "symbol": "hUSDhl",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.svg",
     "type": "USD"
@@ -91,6 +102,7 @@
     "id": "hyperlend_husdt0_999",
     "name": "HyperLend hUSDT0",
     "protocol": "HyperLend",
+    "category": "Lending",
     "symbol": "hUSDT0",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
     "type": "USD"
@@ -99,6 +111,7 @@
     "id": "hyperlend_hwsthype_999",
     "name": "HyperLend hwstHYPE",
     "protocol": "HyperLend",
+    "category": "Lending",
     "symbol": "hwstHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg",
     "type": "HYPE"
@@ -107,6 +120,7 @@
     "id": "hyperlend_hkhype_999",
     "name": "HyperLend hkHYPE",
     "protocol": "HyperLend",
+    "category": "Lending",
     "symbol": "hkHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
     "type": "HYPE"
@@ -115,6 +129,7 @@
     "id": "hyperlend_hwhype_999",
     "name": "HyperLend hwHYPE",
     "protocol": "HyperLend",
+    "category": "Lending",
     "symbol": "hwHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
     "type": "HYPE"
@@ -123,6 +138,7 @@
     "id": "hyperlend_husde_999",
     "name": "HyperLend hUSDe",
     "protocol": "HyperLend",
+    "category": "Lending",
     "symbol": "hUSDe",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
     "type": "USD"
@@ -131,6 +147,7 @@
     "id": "hyperliquid_hbhype_999",
     "name": "Hyperbeat hbHYPE",
     "protocol": "Hyperbeat",
+    "category": "Yield",
     "symbol": "hbHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg",
     "type": "HYPE"
@@ -139,6 +156,7 @@
     "id": "hyperliquid_khype_999",
     "name": "Kinetiq kHYPE",
     "protocol": "Kinetiq",
+    "category": "Yield",
     "symbol": "kHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
     "type": "HYPE"
@@ -147,6 +165,7 @@
     "id": "hyperliquid_whype_999",
     "name": "Hyperliquid wHYPE",
     "protocol": "Hyperliquid",
+    "category": "Yield",
     "symbol": "wHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
     "type": "HYPE"
@@ -155,6 +174,7 @@
     "id": "hyperliquid_lhype_999",
     "name": "Looping Collective lHYPE",
     "protocol": "Looping Collective",
+    "category": "Yield",
     "symbol": "lHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5748ae796ae46a4f1348a1693de4b50560485562.svg",
     "type": "HYPE"
@@ -163,6 +183,7 @@
     "id": "hyperliquid_behype_999",
     "name": "EtherFi beHYPE",
     "protocol": "EtherFi",
+    "category": "Yield",
     "symbol": "beHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg",
     "type": "HYPE"
