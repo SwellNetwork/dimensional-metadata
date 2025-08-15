@@ -111,10 +111,10 @@
   },
   "hyperlend_hwhype_999": {
     "id": "hyperlend_hwhype_999",
-    "name": "HyperLend hwHYPE",
+    "name": "HyperLend hWHYPE",
     "protocol": "HyperLend",
     "category": "Lending",
-    "symbol": "hwHYPE",
+    "symbol": "hWHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
     "showZero": false,
     "showDefault": false,
