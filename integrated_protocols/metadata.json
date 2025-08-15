@@ -39,16 +39,6 @@
     "showZero": true,
     "type": "USD"
   },
-  "hypurrfi_hywsthype_999": {
-    "id": "hypurrfi_hywsthype_999",
-    "name": "HypurrFi hywstHYPE",
-    "category": "Lending",
-    "protocol": "HypurrFi",
-    "symbol": "hywstHYPE",
-    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg",
-    "showZero": true,
-    "type": "HYPE"
-  },
   "hypurrfi_hyusdt0_999": {
     "id": "hypurrfi_hyusdt0_999",
     "name": "HypurrFi hyUSDT0",
@@ -68,16 +58,6 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
     "showZero": true,
     "type": "USD"
-  },
-  "hypurrfi_hykhype_999": {
-    "id": "hypurrfi_hykhype_999",
-    "name": "HypurrFi hykHYPE",
-    "category": "Lending",
-    "protocol": "HypurrFi",
-    "symbol": "hykHYPE",
-    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
-    "showZero": true,
-    "type": "HYPE"
   },
   "hypurrfi_hywhype_999": {
     "id": "hypurrfi_hywhype_999",
@@ -118,26 +98,6 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
     "showZero": true,
     "type": "USD"
-  },
-  "hyperlend_hwsthype_999": {
-    "id": "hyperlend_hwsthype_999",
-    "name": "HyperLend hwstHYPE",
-    "protocol": "HyperLend",
-    "category": "Lending",
-    "symbol": "hwstHYPE",
-    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg",
-    "showZero": true,
-    "type": "HYPE"
-  },
-  "hyperlend_hkhype_999": {
-    "id": "hyperlend_hkhype_999",
-    "name": "HyperLend hkHYPE",
-    "protocol": "HyperLend",
-    "category": "Lending",
-    "symbol": "hkHYPE",
-    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
-    "showZero": true,
-    "type": "HYPE"
   },
   "hyperlend_hwhype_999": {
     "id": "hyperlend_hwhype_999",
