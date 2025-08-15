@@ -139,16 +139,6 @@
     "showZero": true,
     "type": "HYPE"
   },
-  "hyperliquid_whype_999": {
-    "id": "hyperliquid_whype_999",
-    "name": "Hyperliquid wHYPE",
-    "protocol": "Hyperliquid",
-    "category": "Wrapper",
-    "symbol": "wHYPE",
-    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
-    "showZero": true,
-    "type": "HYPE"
-  },
   "hyperliquid_lhype_999": {
     "id": "hyperliquid_lhype_999",
     "name": "Looping Collective lHYPE",
