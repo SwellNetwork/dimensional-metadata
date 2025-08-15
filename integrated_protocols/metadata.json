@@ -6,6 +6,7 @@
     "protocol": "Hyperwave",
     "symbol": "hwHLP",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.svg",
+    "showZero": true,
     "type": "USD"
   },
   "hwhype_999": {
@@ -15,6 +16,7 @@
     "protocol": "Hyperwave",
     "symbol": "hwHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x4de03ca1f02591b717495cfa19913ad56a2f5858.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hyperbeat_usdt_999": {
@@ -24,6 +26,7 @@
     "protocol": "Hyperbeat",
     "symbol": "hbUSDT",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5e105266db42f78fa814322bce7f388b4c2e61eb.svg",
+    "showZero": true,
     "type": "USD"
   },
   "whlp_999": {
@@ -33,6 +36,7 @@
     "category": "LST",
     "symbol": "wHLP",
     "imageUrl": "https://app.hypurr.fi/tokens/whlp.png",
+    "showZero": true,
     "type": "USD"
   },
   "hypurrfi_hywsthype_999": {
@@ -42,6 +46,7 @@
     "protocol": "HypurrFi",
     "symbol": "hywstHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hypurrfi_hyusdt0_999": {
@@ -51,6 +56,7 @@
     "protocol": "HypurrFi",
     "symbol": "hyUSDT0",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
+    "showZero": true,
     "type": "USD"
   },
   "hypurrfi_hyusde_999": {
@@ -60,6 +66,7 @@
     "protocol": "HypurrFi",
     "symbol": "hyUSDe",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
+    "showZero": true,
     "type": "USD"
   },
   "hypurrfi_hykhype_999": {
@@ -69,6 +76,7 @@
     "protocol": "HypurrFi",
     "symbol": "hykHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hypurrfi_hywhype_999": {
@@ -78,6 +86,7 @@
     "protocol": "HypurrFi",
     "symbol": "hywHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hypurrfi_hyusdhl_999": {
@@ -87,6 +96,7 @@
     "category": "Lending",
     "symbol": "hyUSDhl",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.svg",
+    "showZero": true,
     "type": "USD"
   },
   "hyperlend_husdhl_999": {
@@ -96,6 +106,7 @@
     "category": "Lending",
     "symbol": "hUSDhl",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.svg",
+    "showZero": true,
     "type": "USD"
   },
   "hyperlend_husdt0_999": {
@@ -105,6 +116,7 @@
     "category": "Lending",
     "symbol": "hUSDT0",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
+    "showZero": true,
     "type": "USD"
   },
   "hyperlend_hwsthype_999": {
@@ -114,6 +126,7 @@
     "category": "Lending",
     "symbol": "hwstHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hyperlend_hkhype_999": {
@@ -123,6 +136,7 @@
     "category": "Lending",
     "symbol": "hkHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hyperlend_hwhype_999": {
@@ -132,6 +146,7 @@
     "category": "Lending",
     "symbol": "hwHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hyperlend_husde_999": {
@@ -141,6 +156,7 @@
     "category": "Lending",
     "symbol": "hUSDe",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
+    "showZero": true,
     "type": "USD"
   },
   "hyperliquid_hbhype_999": {
@@ -150,6 +166,7 @@
     "category": "Vault",
     "symbol": "hbHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hyperliquid_khype_999": {
@@ -159,6 +176,7 @@
     "category": "LST",
     "symbol": "kHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hyperliquid_whype_999": {
@@ -168,6 +186,7 @@
     "category": "Wrapper",
     "symbol": "wHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hyperliquid_lhype_999": {
@@ -177,6 +196,7 @@
     "category": "Vault",
     "symbol": "lHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5748ae796ae46a4f1348a1693de4b50560485562.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "hyperliquid_behype_999": {
@@ -186,6 +206,7 @@
     "category": "LST",
     "symbol": "beHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg",
+    "showZero": true,
     "type": "HYPE"
   },
   "kinetiq_earn_khype_999": {
@@ -195,6 +216,7 @@
     "category": "Vault",
     "symbol": "vkHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg",
+    "showZero": true,
     "type": "HYPE"
   }
 }
