@@ -126,7 +126,7 @@
     "category": "Vault",
     "symbol": "hbHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg",
-    "showZero": false,
+    "showZero": true,
     "type": "HYPE"
   },
   "hyperliquid_khype_999": {
