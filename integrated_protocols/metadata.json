@@ -7,7 +7,7 @@
     "symbol": "hwHLP",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD"
   },
   "hwhype_999": {
@@ -40,7 +40,7 @@
     "symbol": "wHLP",
     "imageUrl": "https://app.hypurr.fi/tokens/whlp.png",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD"
   },
   "hypurrfi_hyusdt0_999": {
@@ -62,7 +62,7 @@
     "symbol": "USDe",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD"
   },
   "hypurrfi_hywhype_999": {
@@ -84,7 +84,7 @@
     "symbol": "USDhl",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD"
   },
   "hyperlend_husdhl_999": {
@@ -106,7 +106,7 @@
     "symbol": "USDT0",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD"
   },
   "hyperlend_hwhype_999": {
