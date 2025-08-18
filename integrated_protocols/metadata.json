@@ -185,5 +185,27 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE"
+  },
+  "valantis_khype_amm_lp_999": {
+    "id": "valantis_khype_amm_lp_999",
+    "name": "Valantis kHYPE AMM",
+    "protocol": "Valantis",
+    "category": "Vault",
+    "symbol": "LP-kHYPE",
+    "imageUrl": "https://app.valantis.xyz/lp-khype.svg",
+    "showZero": false,
+    "showDefault": true,
+    "type": "HYPE"
+  },
+  "valantis_wsthype_amm_lp_999": {
+    "id": "valantis_wsthype_amm_lp_999",
+    "name": "Valantis stHYPE AMM",
+    "protocol": "Valantis",
+    "category": "Vault",
+    "symbol": "LP-stHYPE",
+    "imageUrl": "https://app.valantis.xyz/lp-hype.svg",
+    "showZero": false,
+    "showDefault": true,
+    "type": "HYPE"
   }
 }
