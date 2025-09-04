@@ -151,7 +151,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "lstHYPE"
   },
   "hyperliquid_lhype_999": {
     "id": "hyperliquid_lhype_999",
@@ -217,6 +217,6 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "lstHYPE"
   }
 }
