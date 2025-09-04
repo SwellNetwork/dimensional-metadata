@@ -218,5 +218,38 @@
     "showZero": false,
     "showDefault": true,
     "type": "lstHYPE"
+  },
+  "hyperbeat_dnhype_999": {
+    "id": "hyperbeat_dnhype_999",
+    "name": "Hyperbeat dnHYPE",
+    "category": "Vault",
+    "protocol": "Hyperbeat",
+    "symbol": "dnHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29.svg",
+    "showZero": false,
+    "showDefault": false,
+    "type": "USD"
+  },
+  "hyperbeat_dnpump_999": {
+    "id": "hyperbeat_dnpump_999",
+    "name": "Hyperbeat dnPUMP",
+    "category": "Vault",
+    "protocol": "Hyperbeat",
+    "symbol": "dnPUMP",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x8858a307a85982c2b3cb2ace1720237f2f09c39b.svg",
+    "showZero": false,
+    "showDefault": false,
+    "type": "USD"
+  },
+  "hyperbeat_wvlp_999": {
+    "id": "hyperbeat_wvlp_999",
+    "name": "Hyperbeat wVLP",
+    "category": "Vault",
+    "protocol": "Hyperbeat",
+    "symbol": "wVLP",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42.svg",
+    "showZero": false,
+    "showDefault": false,
+    "type": "USD"
   }
 }
