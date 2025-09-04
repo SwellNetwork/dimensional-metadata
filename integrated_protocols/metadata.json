@@ -207,5 +207,16 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE"
+  },
+  "hyperdrive_hyped_999": {
+    "id": "hyperdrive_hyped_999",
+    "name": "Hyperdrive HYPED",
+    "protocol": "Hyperdrive",
+    "category": "LST",
+    "symbol": "HYPED",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e.svg",
+    "showZero": false,
+    "showDefault": true,
+    "type": "HYPE"
   }
 }
