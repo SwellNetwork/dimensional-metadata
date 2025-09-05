@@ -31,7 +31,7 @@
     "symbol": "hbUSDT",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5e105266db42f78fa814322bce7f388b4c2e61eb.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD",
     "color": "#B2B2B2"
   },
@@ -55,7 +55,7 @@
     "symbol": "USDT0",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD",
     "color": "#A86BFF"
   },
@@ -79,7 +79,7 @@
     "symbol": "WHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "HYPE",
     "color": "#99FF99"
   },
@@ -103,7 +103,7 @@
     "symbol": "USDhl",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD",
     "color": "#B2FFB2"
   },
@@ -127,7 +127,7 @@
     "symbol": "WHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "HYPE",
     "color": "#99CCFF"
   },
@@ -139,7 +139,7 @@
     "symbol": "USDe",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD",
     "color": "#FFFF99"
   },
@@ -247,7 +247,7 @@
     "symbol": "dnHYPE",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD",
     "color": "#4DFCEF"
   },
@@ -259,7 +259,7 @@
     "symbol": "dnPUMP",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x8858a307a85982c2b3cb2ace1720237f2f09c39b.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD",
     "color": "#FFFFFF"
   },
@@ -271,7 +271,7 @@
     "symbol": "wVLP",
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42.svg",
     "showZero": false,
-    "showDefault": false,
+    "showDefault": true,
     "type": "USD",
     "color": "#999999"
   }
