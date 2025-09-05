@@ -274,5 +274,17 @@
     "showDefault": true,
     "type": "USD",
     "color": "#999999"
+  },
+  "harmonix_hahype_999": {
+    "id": "harmonix_hahype_999",
+    "name": "Harmonix haHYPE",
+    "category": "Vault",
+    "protocol": "Harmonix",
+    "symbol": "haHYPE",
+    "imageUrl": "https://i.ibb.co/SXwJ0yqS/image.png",
+    "showZero": false,
+    "showDefault": true,
+    "type": "HYPE",
+    "color": "#FFCCFF"
   }
 }
