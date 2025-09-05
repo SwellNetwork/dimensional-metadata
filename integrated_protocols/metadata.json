@@ -8,7 +8,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "USD"
+    "type": "USD",
+    "color": "#4DFCEF"
   },
   "hwhype_999": {
     "id": "hwhype_999",
@@ -19,7 +20,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x4de03ca1f02591b717495cfa19913ad56a2f5858.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#A86BFF"
   },
   "hyperbeat_usdt_999": {
     "id": "hyperbeat_usdt_999",
@@ -30,7 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5e105266db42f78fa814322bce7f388b4c2e61eb.svg",
     "showZero": false,
     "showDefault": false,
-    "type": "USD"
+    "type": "USD",
+    "color": "#FF4DA6"
   },
   "whlp_999": {
     "id": "whlp_999",
@@ -41,7 +44,8 @@
     "imageUrl": "https://app.hypurr.fi/tokens/whlp.png",
     "showZero": false,
     "showDefault": true,
-    "type": "USD"
+    "type": "USD",
+    "color": "#FF944D"
   },
   "hypurrfi_hyusdt0_999": {
     "id": "hypurrfi_hyusdt0_999",
@@ -52,7 +56,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
     "showZero": false,
     "showDefault": false,
-    "type": "USD"
+    "type": "USD",
+    "color": "#66FF66"
   },
   "hypurrfi_hyusde_999": {
     "id": "hypurrfi_hyusde_999",
@@ -63,7 +68,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "USD"
+    "type": "USD",
+    "color": "#66B3FF"
   },
   "hypurrfi_hywhype_999": {
     "id": "hypurrfi_hywhype_999",
@@ -74,7 +80,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
     "showZero": false,
     "showDefault": false,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#FF66FF"
   },
   "hypurrfi_hyusdhl_999": {
     "id": "hypurrfi_hyusdhl_999",
@@ -85,7 +92,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "USD"
+    "type": "USD",
+    "color": "#FFFF99"
   },
   "hyperlend_husdhl_999": {
     "id": "hyperlend_husdhl_999",
@@ -96,7 +104,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb50a96253abdf803d85efcdce07ad8becbc52bd5.svg",
     "showZero": false,
     "showDefault": false,
-    "type": "USD"
+    "type": "USD",
+    "color": "#FF6666"
   },
   "hyperlend_husdt0_999": {
     "id": "hyperlend_husdt0_999",
@@ -107,7 +116,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "USD"
+    "type": "USD",
+    "color": "#FFB3B3"
   },
   "hyperlend_hwhype_999": {
     "id": "hyperlend_hwhype_999",
@@ -118,7 +128,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
     "showZero": false,
     "showDefault": false,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#B2FFB2"
   },
   "hyperlend_husde_999": {
     "id": "hyperlend_husde_999",
@@ -129,7 +140,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg",
     "showZero": false,
     "showDefault": false,
-    "type": "USD"
+    "type": "USD",
+    "color": "#B2B2FF"
   },
   "hyperliquid_hbhype_999": {
     "id": "hyperliquid_hbhype_999",
@@ -140,7 +152,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg",
     "showZero": true,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#FFB2FF"
   },
   "hyperliquid_khype_999": {
     "id": "hyperliquid_khype_999",
@@ -151,7 +164,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#B2B2B2"
   },
   "hyperliquid_lhype_999": {
     "id": "hyperliquid_lhype_999",
@@ -162,7 +176,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5748ae796ae46a4f1348a1693de4b50560485562.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#FFFFFF"
   },
   "hyperliquid_behype_999": {
     "id": "hyperliquid_behype_999",
@@ -173,7 +188,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#FFCC99"
   },
   "kinetiq_earn_khype_999": {
     "id": "kinetiq_earn_khype_999",
@@ -184,7 +200,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#CC99FF"
   },
   "valantis_khype_amm_lp_999": {
     "id": "valantis_khype_amm_lp_999",
@@ -195,7 +212,8 @@
     "imageUrl": "https://app.valantis.xyz/lp-khype.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#99CCFF"
   },
   "valantis_wsthype_amm_lp_999": {
     "id": "valantis_wsthype_amm_lp_999",
@@ -206,7 +224,8 @@
     "imageUrl": "https://app.valantis.xyz/lp-hype.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#99FF99"
   },
   "hyperdrive_hyped_999": {
     "id": "hyperdrive_hyped_999",
@@ -217,7 +236,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e.svg",
     "showZero": false,
     "showDefault": true,
-    "type": "HYPE"
+    "type": "HYPE",
+    "color": "#FF99CC"
   },
   "hyperbeat_dnhype_999": {
     "id": "hyperbeat_dnhype_999",
@@ -228,7 +248,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29.svg",
     "showZero": false,
     "showDefault": false,
-    "type": "USD"
+    "type": "USD",
+    "color": "#FF9999"
   },
   "hyperbeat_dnpump_999": {
     "id": "hyperbeat_dnpump_999",
@@ -239,7 +260,8 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x8858a307a85982c2b3cb2ace1720237f2f09c39b.svg",
     "showZero": false,
     "showDefault": false,
-    "type": "USD"
+    "type": "USD",
+    "color": "#CCCCCC"
   },
   "hyperbeat_wvlp_999": {
     "id": "hyperbeat_wvlp_999",
@@ -250,6 +272,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42.svg",
     "showZero": false,
     "showDefault": false,
-    "type": "USD"
+    "type": "USD",
+    "color": "#999999"
   }
 }
