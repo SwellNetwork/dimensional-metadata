@@ -9,7 +9,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#4DFCEF"
+    "color": "#FFB3B3"
   },
   "hwhype_999": {
     "id": "hwhype_999",
@@ -21,7 +21,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#A86BFF"
+    "color": "#FF944D"
   },
   "hyperbeat_usdt_999": {
     "id": "hyperbeat_usdt_999",
@@ -33,7 +33,7 @@
     "showZero": false,
     "showDefault": false,
     "type": "USD",
-    "color": "#FF4DA6"
+    "color": "#B2B2B2"
   },
   "whlp_999": {
     "id": "whlp_999",
@@ -45,7 +45,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#FF944D"
+    "color": "#FF99CC"
   },
   "hypurrfi_hyusdt0_999": {
     "id": "hypurrfi_hyusdt0_999",
@@ -57,7 +57,7 @@
     "showZero": false,
     "showDefault": false,
     "type": "USD",
-    "color": "#66FF66"
+    "color": "#A86BFF"
   },
   "hypurrfi_hyusde_999": {
     "id": "hypurrfi_hyusde_999",
@@ -69,7 +69,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#66B3FF"
+    "color": "#FF4DA6"
   },
   "hypurrfi_hywhype_999": {
     "id": "hypurrfi_hywhype_999",
@@ -81,7 +81,7 @@
     "showZero": false,
     "showDefault": false,
     "type": "HYPE",
-    "color": "#FF66FF"
+    "color": "#99FF99"
   },
   "hypurrfi_hyusdhl_999": {
     "id": "hypurrfi_hyusdhl_999",
@@ -93,7 +93,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#FFFF99"
+    "color": "#FFCC99"
   },
   "hyperlend_husdhl_999": {
     "id": "hyperlend_husdhl_999",
@@ -105,7 +105,7 @@
     "showZero": false,
     "showDefault": false,
     "type": "USD",
-    "color": "#FF6666"
+    "color": "#B2FFB2"
   },
   "hyperlend_husdt0_999": {
     "id": "hyperlend_husdt0_999",
@@ -117,7 +117,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#FFB3B3"
+    "color": "#FF6666"
   },
   "hyperlend_hwhype_999": {
     "id": "hyperlend_hwhype_999",
@@ -129,7 +129,7 @@
     "showZero": false,
     "showDefault": false,
     "type": "HYPE",
-    "color": "#B2FFB2"
+    "color": "#99CCFF"
   },
   "hyperlend_husde_999": {
     "id": "hyperlend_husde_999",
@@ -141,7 +141,7 @@
     "showZero": false,
     "showDefault": false,
     "type": "USD",
-    "color": "#B2B2FF"
+    "color": "#FFFF99"
   },
   "hyperliquid_hbhype_999": {
     "id": "hyperliquid_hbhype_999",
@@ -153,7 +153,7 @@
     "showZero": true,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FFB2FF"
+    "color": "#FF9999"
   },
   "hyperliquid_khype_999": {
     "id": "hyperliquid_khype_999",
@@ -165,7 +165,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#B2B2B2"
+    "color": "#B2B2FF"
   },
   "hyperliquid_lhype_999": {
     "id": "hyperliquid_lhype_999",
@@ -177,7 +177,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FFFFFF"
+    "color": "#FFB2FF"
   },
   "hyperliquid_behype_999": {
     "id": "hyperliquid_behype_999",
@@ -189,7 +189,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FFCC99"
+    "color": "#CC99FF"
   },
   "kinetiq_earn_khype_999": {
     "id": "kinetiq_earn_khype_999",
@@ -201,7 +201,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#CC99FF"
+    "color": "#66B3FF"
   },
   "valantis_khype_amm_lp_999": {
     "id": "valantis_khype_amm_lp_999",
@@ -213,7 +213,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#99CCFF"
+    "color": "#FF66FF"
   },
   "valantis_wsthype_amm_lp_999": {
     "id": "valantis_wsthype_amm_lp_999",
@@ -225,7 +225,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#99FF99"
+    "color": "#CCCCCC"
   },
   "hyperdrive_hyped_999": {
     "id": "hyperdrive_hyped_999",
@@ -237,7 +237,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FF99CC"
+    "color": "#66FF66"
   },
   "hyperbeat_dnhype_999": {
     "id": "hyperbeat_dnhype_999",
@@ -249,7 +249,7 @@
     "showZero": false,
     "showDefault": false,
     "type": "USD",
-    "color": "#FF9999"
+    "color": "#4DFCEF"
   },
   "hyperbeat_dnpump_999": {
     "id": "hyperbeat_dnpump_999",
@@ -261,7 +261,7 @@
     "showZero": false,
     "showDefault": false,
     "type": "USD",
-    "color": "#CCCCCC"
+    "color": "#FFFFFF"
   },
   "hyperbeat_wvlp_999": {
     "id": "hyperbeat_wvlp_999",
