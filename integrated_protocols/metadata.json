@@ -35,6 +35,18 @@
     "type": "USD",
     "color": "#B2B2B2"
   },
+  "hyperbeat_lsthype_999": {
+    "id": "hyperbeat_lsthype_999",
+    "name": "Hyperbeat lstHYPE",
+    "category": "Vault",
+    "protocol": "Hyperbeat",
+    "symbol": "lstHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x81e064d0eB539de7c3170EDF38C1A42CBd752A76.svg",
+    "showZero": false,
+    "showDefault": true,
+    "type": "HYPE",
+    "color": "#FF6666"
+  },
   "hyperbeat_usdc_999": {
     "id": "hyperbeat_usdc_999",
     "name": "Hyperbeat hbUSDC",
