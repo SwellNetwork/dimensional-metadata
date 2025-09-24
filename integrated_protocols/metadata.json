@@ -53,7 +53,7 @@
     "category": "Vault",
     "protocol": "Hyperbeat",
     "symbol": "liquidHYPE",
-    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x441794D6a8F9A3739F5D4E98a728937b33489D29.svg",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg",
     "showZero": true,
     "showDefault": true,
     "type": "HYPE",
@@ -181,7 +181,7 @@
   },
   "hyperliquid_hbhype_999": {
     "id": "hyperliquid_hbhype_999",
-    "name": "Hyperbeat Ultra HYPE (hbHYPE)",
+    "name": "Hyperbeat Ultra HYPE",
     "protocol": "Hyperbeat",
     "category": "Vault",
     "symbol": "hbHYPE",
