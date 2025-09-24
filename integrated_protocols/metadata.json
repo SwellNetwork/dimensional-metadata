@@ -203,18 +203,6 @@
     "type": "HYPE",
     "color": "#FFB2FF"
   },
-  "hyperliquid_behype_999": {
-    "id": "hyperliquid_behype_999",
-    "name": "Hyperbeat beHYPE",
-    "protocol": "Hyperbeat",
-    "category": "LST",
-    "symbol": "beHYPE",
-    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg",
-    "showZero": false,
-    "showDefault": true,
-    "type": "HYPE",
-    "color": "#CC99FF"
-  },
   "kinetiq_earn_khype_999": {
     "id": "kinetiq_earn_khype_999",
     "name": "Kinetiq Earn vkHYPE",
