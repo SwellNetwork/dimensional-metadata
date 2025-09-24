@@ -47,6 +47,18 @@
     "type": "HYPE",
     "color": "#FF6666"
   },
+  "hyperbeat_liqhype_999": {
+    "id": "hyperbeat_liqhype_999",
+    "name": "Hyperbeat liquidHYPE",
+    "category": "Vault",
+    "protocol": "Hyperbeat",
+    "symbol": "liquidHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x441794D6a8F9A3739F5D4E98a728937b33489D29.svg",
+    "showZero": true,
+    "showDefault": true,
+    "type": "HYPE",
+    "color": "#FF6666"
+  },
   "hyperbeat_usdc_999": {
     "id": "hyperbeat_usdc_999",
     "name": "Hyperbeat hbUSDC",
@@ -169,7 +181,7 @@
   },
   "hyperliquid_hbhype_999": {
     "id": "hyperliquid_hbhype_999",
-    "name": "Hyperbeat hbHYPE",
+    "name": "Hyperbeat Ultra HYPE (hbHYPE)",
     "protocol": "Hyperbeat",
     "category": "Vault",
     "symbol": "hbHYPE",
@@ -202,18 +214,6 @@
     "showDefault": true,
     "type": "HYPE",
     "color": "#FFB2FF"
-  },
-  "hyperliquid_behype_999": {
-    "id": "hyperliquid_behype_999",
-    "name": "EtherFi beHYPE",
-    "protocol": "EtherFi",
-    "category": "LST",
-    "symbol": "beHYPE",
-    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg",
-    "showZero": false,
-    "showDefault": true,
-    "type": "HYPE",
-    "color": "#CC99FF"
   },
   "kinetiq_earn_khype_999": {
     "id": "kinetiq_earn_khype_999",
