@@ -21,7 +21,8 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FF944D"
+    "color": "#FF944D",
+    "hasBreakdown": true
   },
   "hyperbeat_usdt_999": {
     "id": "hyperbeat_usdt_999",
@@ -45,7 +46,8 @@
     "showZero": true,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FF6666"
+    "color": "#FF6666",
+    "hasBreakdown": true
   },
   "hyperbeat_liqhype_999": {
     "id": "hyperbeat_liqhype_999",
@@ -189,7 +191,8 @@
     "showZero": true,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FF9999"
+    "color": "#FF9999",
+    "hasBreakdown": true
   },
   "hyperliquid_khype_999": {
     "id": "hyperliquid_khype_999",
@@ -225,7 +228,8 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#66B3FF"
+    "color": "#66B3FF",
+    "hasBreakdown": true
   },
   "valantis_khype_amm_lp_999": {
     "id": "valantis_khype_amm_lp_999",
