@@ -61,6 +61,19 @@
     "showZero": true,
     "showDefault": true,
     "type": "HYPE",
+    "color": "#FFCC66"
+  },
+  "hyperbeat_behype_999": {
+    "id": "hyperbeat_behype_999",
+    "name": "Hyperbeat beHYPE",
+    "protocol": "Hyperbeat",
+    "category": "LST",
+    "symbol": "beHYPE",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9.svg",
+    "showZero": false,
+    "showDefault": true,
+    "type": "HYPE",
+    "color": "#7FC8FF"
     "color": "#FF6666",
     "hasBreakdown": false
   },
