@@ -61,7 +61,8 @@
     "showZero": true,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FFCC66"
+    "color": "#FF6666",
+    "hasBreakdown": false
   },
   "hyperbeat_behype_999": {
     "id": "hyperbeat_behype_999",
@@ -73,8 +74,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#7FC8FF"
-    "color": "#FF6666",
+    "color": "#7FC8FF",
     "hasBreakdown": false
   },
   "hyperbeat_usdc_999": {
