@@ -390,7 +390,7 @@
         "id": "withdrawal_wsthypeval_999",
         "chainId": 999,
         "name": "Valantis wstHYPE Withdrawal",
-        "category": "wstHYPE Withdrawal",
+        "category": "Withdrawal",
         "protocol_name": "Valantis",
         "protocol_logo_url": "https://app.valantis.xyz/logo.svg",
         "underlying_logo_url": "https://app.valantis.xyz/lp-hype.svg"
