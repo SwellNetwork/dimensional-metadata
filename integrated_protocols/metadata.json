@@ -1,6 +1,7 @@
 {
   "hwhlp_999": {
     "id": "hwhlp_999",
+    "chainId": 999,
     "name": "Hyperwave hwHLP",
     "category": "LST",
     "protocol": "Hyperwave",
@@ -14,6 +15,7 @@
   },
   "hwhype_999": {
     "id": "hwhype_999",
+    "chainId": 999,
     "name": "Hyperwave hwHYPE",
     "category": "Vault",
     "protocol": "Hyperwave",
@@ -35,6 +37,7 @@
   },
   "hyperbeat_usdt_999": {
     "id": "hyperbeat_usdt_999",
+    "chainId": 999,
     "name": "Hyperbeat hbUSDT",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -48,6 +51,7 @@
   },
   "hyperbeat_lsthype_999": {
     "id": "hyperbeat_lsthype_999",
+    "chainId": 999,
     "name": "Hyperbeat lstHYPE",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -85,6 +89,7 @@
   },
   "hyperbeat_liqhype_999": {
     "id": "hyperbeat_liqhype_999",
+    "chainId": 999,
     "name": "Hyperbeat liquidHYPE",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -98,6 +103,7 @@
   },
   "hyperbeat_behype_999": {
     "id": "hyperbeat_behype_999",
+    "chainId": 999,
     "name": "Hyperbeat beHYPE",
     "protocol": "Hyperbeat",
     "category": "LST",
@@ -111,6 +117,7 @@
   },
   "hyperbeat_usdc_999": {
     "id": "hyperbeat_usdc_999",
+    "chainId": 999,
     "name": "Hyperbeat hbUSDC",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -124,6 +131,7 @@
   },
   "whlp_999": {
     "id": "whlp_999",
+    "chainId": 999,
     "name": "Looping Collective wHLP",
     "protocol": "Looping Collective",
     "category": "LST",
@@ -137,6 +145,7 @@
   },
   "hypurrfi_hyusdt0_999": {
     "id": "hypurrfi_hyusdt0_999",
+    "chainId": 999,
     "name": "HypurrFi USDT0",
     "category": "Lending",
     "protocol": "HypurrFi",
@@ -150,6 +159,7 @@
   },
   "hypurrfi_hyusde_999": {
     "id": "hypurrfi_hyusde_999",
+    "chainId": 999,
     "name": "HypurrFi USDe",
     "category": "Lending",
     "protocol": "HypurrFi",
@@ -163,6 +173,7 @@
   },
   "hypurrfi_hywhype_999": {
     "id": "hypurrfi_hywhype_999",
+    "chainId": 999,
     "name": "HypurrFi WHYPE",
     "category": "Lending",
     "protocol": "HypurrFi",
@@ -176,6 +187,7 @@
   },
   "hypurrfi_hyusdhl_999": {
     "id": "hypurrfi_hyusdhl_999",
+    "chainId": 999,
     "name": "HypurrFi USDhl",
     "protocol": "HypurrFi",
     "category": "Lending",
@@ -189,6 +201,7 @@
   },
   "hyperlend_husdhl_999": {
     "id": "hyperlend_husdhl_999",
+    "chainId": 999,
     "name": "HyperLend USDhl",
     "protocol": "HyperLend",
     "category": "Lending",
@@ -202,6 +215,7 @@
   },
   "hyperlend_husdt0_999": {
     "id": "hyperlend_husdt0_999",
+    "chainId": 999,
     "name": "HyperLend USDT0",
     "protocol": "HyperLend",
     "category": "Lending",
@@ -215,6 +229,7 @@
   },
   "hyperlend_hwhype_999": {
     "id": "hyperlend_hwhype_999",
+    "chainId": 999,
     "name": "HyperLend WHYPE",
     "protocol": "HyperLend",
     "category": "Lending",
@@ -228,6 +243,7 @@
   },
   "hyperlend_husde_999": {
     "id": "hyperlend_husde_999",
+    "chainId": 999,
     "name": "HyperLend USDe",
     "protocol": "HyperLend",
     "category": "Lending",
@@ -241,6 +257,7 @@
   },
   "hyperliquid_hbhype_999": {
     "id": "hyperliquid_hbhype_999",
+    "chainId": 999,
     "name": "Hyperbeat Ultra HYPE",
     "protocol": "Hyperbeat",
     "category": "Vault",
@@ -278,6 +295,7 @@
   },
   "hyperliquid_khype_999": {
     "id": "hyperliquid_khype_999",
+    "chainId": 999,
     "name": "Kinetiq kHYPE",
     "protocol": "Kinetiq",
     "category": "LST",
@@ -291,6 +309,7 @@
   },
   "hyperliquid_lhype_999": {
     "id": "hyperliquid_lhype_999",
+    "chainId": 999,
     "name": "Looping Collective lHYPE",
     "protocol": "Looping Collective",
     "category": "Vault",
@@ -304,6 +323,7 @@
   },
   "kinetiq_earn_khype_999": {
     "id": "kinetiq_earn_khype_999",
+    "chainId": 999,
     "name": "Kinetiq Earn vkHYPE",
     "protocol": "Kinetiq",
     "category": "Vault",
@@ -325,6 +345,7 @@
   },
   "valantis_khype_amm_lp_999": {
     "id": "valantis_khype_amm_lp_999",
+    "chainId": 999,
     "name": "Valantis kHYPE AMM",
     "protocol": "Valantis",
     "category": "Vault",
@@ -338,6 +359,7 @@
   },
   "valantis_wsthype_amm_lp_999": {
     "id": "valantis_wsthype_amm_lp_999",
+    "chainId": 999,
     "name": "Valantis stHYPE AMM",
     "protocol": "Valantis",
     "category": "Vault",
@@ -351,6 +373,7 @@
   },
   "hyperdrive_hyped_999": {
     "id": "hyperdrive_hyped_999",
+    "chainId": 999,
     "name": "Hyperdrive HYPED",
     "protocol": "Hyperdrive",
     "category": "LST",
@@ -364,6 +387,7 @@
   },
   "hyperbeat_dnhype_999": {
     "id": "hyperbeat_dnhype_999",
+    "chainId": 999,
     "name": "Hyperbeat dnHYPE",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -377,6 +401,7 @@
   },
   "hyperbeat_dnpump_999": {
     "id": "hyperbeat_dnpump_999",
+    "chainId": 999,
     "name": "Hyperbeat dnPUMP",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -390,6 +415,7 @@
   },
   "hyperbeat_wvlp_999": {
     "id": "hyperbeat_wvlp_999",
+    "chainId": 999,
     "name": "Hyperbeat wVLP",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -403,6 +429,7 @@
   },
   "harmonix_hahype_999": {
     "id": "harmonix_hahype_999",
+    "chainId": 999,
     "name": "Harmonix haHYPE",
     "category": "Vault",
     "protocol": "Harmonix",
