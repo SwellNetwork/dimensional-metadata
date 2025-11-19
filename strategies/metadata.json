@@ -1,6 +1,7 @@
 {
     "hyperliquid_whype_999": {
         "id": "hyperliquid_whype_999",
+        "chainId": 999,
         "name": "wHYPE",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -9,6 +10,7 @@
     },
     "native_hype_999": {
         "id": "native_hype_999",
+        "chainId": 999,
         "name": "HYPE",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -17,6 +19,7 @@
     },
     "hyperliquid_wsthype_999": {
         "id": "hyperliquid_wsthype_999",
+        "chainId": 999,
         "name": "wstHYPE",
         "category": "LST",
         "protocol_name": "StakeHype",
@@ -25,6 +28,7 @@
     },
     "hypurrfi_hywhype_999": {
         "id": "hypurrfi_hywhype_999",
+        "chainId": 999,
         "name": "HypurrFi wHYPE",
         "category": "Lending",
         "protocol_name": "HypurrFi",
@@ -33,6 +37,7 @@
     },
     "hypurrfi_hywhype_999_debt": {
         "id": "hypurrfi_hywhype_999_debt",
+        "chainId": 999,
         "name": "HypurrFi wHYPE Debt",
         "category": "Debt",
         "protocol_name": "HypurrFi",
@@ -41,6 +46,7 @@
     },
     "hypurrfi_hywsthype_999": {
         "id": "hypurrfi_hywsthype_999",
+        "chainId": 999,
         "name": "HypurrFi wstHYPE",
         "category": "Lending",
         "protocol_name": "HypurrFi",
@@ -49,6 +55,7 @@
     },
     "hypurrfi_hywsthype_999_debt": {
         "id": "hypurrfi_hywsthype_999_debt",
+        "chainId": 999,
         "name": "HypurrFi wstHYPE Debt",
         "category": "Debt",
         "protocol_name": "HypurrFi",
@@ -57,6 +64,7 @@
     },
     "hyperlend_hwsthype_999": {
         "id": "hyperlend_hwsthype_999",
+        "chainId": 999,
         "name": "Hyperlend wstHYPE",
         "category": "Lending",
         "protocol_name": "Hyperlend",
@@ -65,6 +73,7 @@
     },
     "hyperlend_hwsthype_999_debt": {
         "id": "hyperlend_hwsthype_999_debt",
+        "chainId": 999,
         "name": "Hyperlend wstHYPE Debt",
         "category": "Debt",
         "protocol_name": "Hyperlend",
@@ -73,6 +82,7 @@
     },
     "hypercore_perp_eth": {
         "id": "hypercore_perp_eth",
+        "chainId": 999,
         "name": "Hypercore ETH perps",
         "category": "Perpetuals",
         "protocol_name": "Hyperliquid",
@@ -81,6 +91,7 @@
     },
     "hypercore_perp_usdc": {
         "id": "hypercore_perp_usdc",
+        "chainId": 999,
         "name": "Hypercore perp USDC",
         "category": "Perpetuals",
         "protocol_name": "Hyperliquid",
@@ -89,6 +100,7 @@
     },
     "hypercore_portfolio_usdc": {
         "id": "hypercore_portfolio_usdc",
+        "chainId": 999,
         "name": "Hypercore USDC",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -97,6 +109,7 @@
     },
     "hypercore_spot_usdc": {
         "id": "hypercore_spot_usdc",
+        "chainId": 999,
         "name": "Hypercore spot USDC",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -105,6 +118,7 @@
     },
     "hypercore_spot_hype": {
         "id": "hypercore_spot_hype",
+        "chainId": 999,
         "name": "Hypercore spot HYPE",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -113,6 +127,7 @@
     },
     "hyperlend_hwhype_999": {
         "id": "hyperlend_hwhype_999",
+        "chainId": 999,
         "name": "Hyperlend wHYPE",
         "category": "Lending",
         "protocol_name": "Hyperlend",
@@ -121,6 +136,7 @@
     },
     "hyperlend_hwhype_999_debt": {
         "id": "hyperlend_hwhype_999_debt",
+        "chainId": 999,
         "name": "Hyperlend wHYPE Debt",
         "category": "Debt",
         "protocol_name": "Hyperlend",
@@ -129,6 +145,7 @@
     },
     "hypercore_perp_hype": {
         "id": "hypercore_perp_hype",
+        "chainId": 999,
         "name": "Hypercore HYPE perps",
         "category": "Perpetuals",
         "protocol_name": "Hyperliquid",
@@ -137,6 +154,7 @@
     },
     "hypercore_spot_usdxl": {
         "id": "hypercore_spot_usdxl",
+        "chainId": 999,
         "name": "Hypercore spot USDXl",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -145,6 +163,7 @@
     },
     "hyperliquid_usdt0_999": {
         "id": "hyperliquid_usdt0_999",
+        "chainId": 999,
         "name": "USDT0",
         "category": "Hold",
         "protocol_name": "Tether",
@@ -153,6 +172,7 @@
     },
     "hyperliquid_usde_999": {
         "id": "hyperliquid_usde_999",
+        "chainId": 999,
         "name": "USDe",
         "category": "Hold",
         "protocol_name": "Ethena",
@@ -161,6 +181,7 @@
     },
     "hypurrfi_hyusd₮0_999": {
         "id": "hypurrfi_hyusd₮0_999",
+        "chainId": 999,
         "name": "HypurrFi USDT0",
         "category": "Lending",
         "protocol_name": "HypurrFi",
@@ -169,6 +190,7 @@
     },
     "hypurrfi_hyusd₮0_999_debt": {
         "id": "hypurrfi_hyusd₮0_999_debt",
+        "chainId": 999,
         "name": "HypurrFi USDT0 Debt",
         "category": "Debt",
         "protocol_name": "HypurrFi",
@@ -177,6 +199,7 @@
     },
     "fraxlend_whype_0xE484_999_borrow": {
         "id": "fraxlend_whype_0xE484_999_borrow",
+        "chainId": 999,
         "name": "Hypurrfi (iso) wHYPE Debt x mHYPE",
         "category": "Debt",
         "protocol_name": "HypurrFi Isolated",
@@ -185,6 +208,7 @@
     },
     "fraxlend_whype_0xE484_999_collateral": {
         "id": "fraxlend_whype_0xE484_999_collateral",
+        "chainId": 999,
         "name": "Hypurrfi (iso) mHYPE Collateral x wHYPE",
         "category": "LST",
         "protocol_name": "HypurrFi Isolated",
@@ -193,6 +217,7 @@
     },
     "fraxlend_whype_0xE484_999_supply": {
         "id": "fraxlend_whype_0xE484_999_supply",
+        "chainId": 999,
         "name": "Hypurrfi (iso) wHYPE Lend x mHYPE",
         "category": "Lending",
         "protocol_name": "HypurrFi Isolated",
@@ -201,6 +226,7 @@
     },
     "morpho_whype_0xbc15a1782163f4be46c23ac61f5da50fed96ad40293f86a5ce0501ce4a246b32_999_borrow": {
         "id": "morpho_whype_0xbc15a1782163f4be46c23ac61f5da50fed96ad40293f86a5ce0501ce4a246b32_999_borrow",
+        "chainId": 999,
         "name": "Morpho wHYPE Debt x wstHYPE",
         "category": "Debt",
         "protocol_name": "Morpho",
@@ -209,6 +235,7 @@
     },
     "morpho_whype_0xbc15a1782163f4be46c23ac61f5da50fed96ad40293f86a5ce0501ce4a246b32_999_collateral": {
         "id": "morpho_whype_0xbc15a1782163f4be46c23ac61f5da50fed96ad40293f86a5ce0501ce4a246b32_999_collateral",
+        "chainId": 999,
         "name": "Morpho wstHYPE Collateral x wHYPE",
         "category": "LST",
         "protocol_name": "Morpho",
@@ -217,6 +244,7 @@
     },
     "morpho_felix_usdt0_999": {
         "id": "morpho_felix_usdt0_999",
+        "chainId": 999,
         "name": "Felix feUSDT0",
         "category": "Vault",
         "protocol_name": "Felix",
@@ -225,6 +253,7 @@
     },
     "withdrawal_wsthype_999": {
         "id": "withdrawal_wsthype_999",
+        "chainId": 999,
         "name": "wstHYPE Withdrawal",
         "category": "Withdrawal",
         "protocol_name": "StakeHype",
@@ -233,6 +262,7 @@
     },
     "hyperswap_whype_wsthype_100_999": {
         "id": "hyperswap_whype_wsthype_100_999",
+        "chainId": 999,
         "name": "Hyperswap wHYPE-wstHYPE",
         "category": "DEX",
         "protocol_name": "Hyperswap",
@@ -241,6 +271,7 @@
     },
     "hyperliquid_usr_999": {
         "id": "hyperliquid_usr_999",
+        "chainId": 999,
         "name": "USR",
         "category": "Hold",
         "protocol_name": "Resolv",
@@ -249,6 +280,7 @@
     },
     "hyperswap_usde_usdt0_100_999": {
         "id": "hyperswap_usde_usdt0_100_999",
+        "chainId": 999,
         "name": "Hyperswap USDe-USDT0",
         "category": "DEX",
         "protocol_name": "Hyperswap",
@@ -257,6 +289,7 @@
     },
     "hypercore_spot_usdt0": {
         "id": "hypercore_spot_usdt0",
+        "chainId": 999,
         "name": "Hypercore spot USDT0",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -265,6 +298,7 @@
     },
     "hypercore_perp_fartcoin": {
         "id": "hypercore_perp_fartcoin",
+        "chainId": 999,
         "name": "Hypercore Fartcoin perps",
         "category": "Perpetuals",
         "protocol_name": "Hyperliquid",
@@ -273,6 +307,7 @@
     },
     "hypercore_spot_fartcoin": {
         "id": "hypercore_spot_fartcoin",
+        "chainId": 999,
         "name": "Hypercore spot Fartcoin",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -281,6 +316,7 @@
     },
     "valantis_wsthype_amm_lp_999": {
         "id": "valantis_wsthype_amm_lp_999",
+        "chainId": 999,
         "name": "Valantis wstHYPE STEX",
         "category": "DEX",
         "protocol_name": "Valantis",
@@ -289,6 +325,7 @@
     },
     "hyperliquid_rlp_999": {
         "id": "hyperliquid_rlp_999",
+        "chainId": 999,
         "name": "RLP",
         "category": "Vault",
         "protocol_name": "Resolv",
@@ -297,6 +334,7 @@
     },
     "hyperliquid_whlp_999": {
         "id": "hyperliquid_whlp_999",
+        "chainId": 999,
         "name": "wHLP",
         "category": "LST",
         "protocol_name": "Looping",
@@ -305,6 +343,7 @@
     },
     "hyperswap_rlp_usr_500_999": {
         "id": "hyperswap_rlp_usr_500_999",
+        "chainId": 999,
         "name": "Hyperswap RLP-USR",
         "category": "DEX",
         "protocol_name": "Hyperswap",
@@ -313,6 +352,7 @@
     },
     "hyperliquid_usdhl_999": {
         "id": "hyperliquid_usdhl_999",
+        "chainId": 999,
         "name": "USDHl",
         "category": "Hold",
         "protocol_name": "Felix",
@@ -321,6 +361,7 @@
     },
     "hyperlend_husd₮0_999": {
         "id": "hyperlend_husd₮0_999",
+        "chainId": 999,
         "name": "Hyperlend USDT0",
         "category": "Hold",
         "protocol_name": "Hyperlend",
@@ -329,6 +370,7 @@
     },
     "hyperlend_husd₮0_999_debt": {
         "id": "hyperlend_husd₮0_999_debt",
+        "chainId": 999,
         "name": "Hyperlend USDT0 Debt",
         "category": "Debt",
         "protocol_name": "Hyperlend",
@@ -337,6 +379,7 @@
     },
     "morpho_felix_usdhl_999": {
         "id": "morpho_felix_usdhl_999",
+        "chainId": 999,
         "name": "Felix feUSDHl",
         "category": "Vault",
         "protocol_name": "Felix",
@@ -345,6 +388,7 @@
     },
     "withdrawal_wsthypeval_999": {
         "id": "withdrawal_wsthypeval_999",
+        "chainId": 999,
         "name": "Valantis wstHYPE Withdrawal",
         "category": "wstHYPE Withdrawal",
         "protocol_name": "Valantis",
@@ -353,6 +397,7 @@
     },
     "hypercore_perp_pump": {
         "id": "hypercore_perp_pump",
+        "chainId": 999,
         "name": "Hypercore PUMP perps",
         "category": "Perpetuals",
         "protocol_name": "Hyperliquid",
@@ -361,6 +406,7 @@
     },
     "hypercore_spot_pump": {
         "id": "hypercore_spot_pump",
+        "chainId": 999,
         "name": "Hypercore spot PUMP",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -369,6 +415,7 @@
     },
     "hyperliquid_khype_999": {
         "id": "hyperliquid_khype_999",
+        "chainId": 999,
         "name": "kHYPE",
         "category": "LST",
         "protocol_name": "Kinetiq",
@@ -377,6 +424,7 @@
     },
     "hypurrfi_hykhype_999": {
         "id": "hypurrfi_hykhype_999",
+        "chainId": 999,
         "name": "HypurrFi kHYPE",
         "category": "Lending",
         "protocol_name": "HypurrFi",
@@ -385,6 +433,7 @@
     },
     "hypurrfi_hykhype_999_debt": {
         "id": "hypurrfi_hykhype_999_debt",
+        "chainId": 999,
         "name": "HypurrFi kHYPE Debt",
         "category": "Debt",
         "protocol_name": "HypurrFi",
@@ -393,6 +442,7 @@
     },
     "morpho_whype_0x64e7db7f042812d4335947a7cdf6af1093d29478aff5f1ccd93cc67f8aadfddc_999_borrow": {
         "id": "morpho_whype_0x64e7db7f042812d4335947a7cdf6af1093d29478aff5f1ccd93cc67f8aadfddc_999_borrow",
+        "chainId": 999,
         "name": "Morpho wHYPE Debt x kHYPE",
         "category": "Debt",
         "protocol_name": "Morpho",
@@ -401,6 +451,7 @@
     },
     "morpho_whype_0x64e7db7f042812d4335947a7cdf6af1093d29478aff5f1ccd93cc67f8aadfddc_999_collateral": {
         "id": "morpho_whype_0x64e7db7f042812d4335947a7cdf6af1093d29478aff5f1ccd93cc67f8aadfddc_999_collateral",
+        "chainId": 999,
         "name": "Morpho kHYPE Collateral x wHYPE",
         "category": "LST",
         "protocol_name": "Morpho",
@@ -409,6 +460,7 @@
     },
     "hypercore_spot_latina": {
         "id": "hypercore_spot_latina",
+        "chainId": 999,
         "name": "Hypercore spot LATINA",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -417,6 +469,7 @@
     },
     "morpho_usdt0_0x78f6b57d825ef01a5dc496ad1f426a6375c685047d07a30cd07ac5107ffc7976_999_borrow": {
         "id": "morpho_usdt0_0x78f6b57d825ef01a5dc496ad1f426a6375c685047d07a30cd07ac5107ffc7976_999_borrow",
+        "chainId": 999,
         "name": "Morpho USDT0 Debt x kHYPE",
         "category": "Debt",
         "protocol_name": "Morpho",
@@ -425,6 +478,7 @@
     },
     "morpho_usdt0_0x78f6b57d825ef01a5dc496ad1f426a6375c685047d07a30cd07ac5107ffc7976_999_collateral": {
         "id": "morpho_usdt0_0x78f6b57d825ef01a5dc496ad1f426a6375c685047d07a30cd07ac5107ffc7976_999_collateral",
+        "chainId": 999,
         "name": "Morpho kHYPE Collateral x USDT0",
         "category": "LST",
         "protocol_name": "Morpho",
@@ -433,6 +487,7 @@
     },
     "hyperliquid_liqhype_999": {
         "id": "hyperliquid_liqhype_999",
+        "chainId": 999,
         "name": "Hyperbeat liqHYPE",
         "category": "Vault",
         "protocol_name": "Hyperbeat",
@@ -441,6 +496,7 @@
     },
     "hyperlend_husdhl_999": {
         "id": "hyperlend_husdhl_999",
+        "chainId": 999,
         "name": "Hyperlend USDHl",
         "category": "Lending",
         "protocol_name": "Hyperlend",
@@ -449,6 +505,7 @@
     },
     "hyperlend_husdhl_999_debt": {
         "id": "hyperlend_husdhl_999_debt",
+        "chainId": 999,
         "name": "Hyperlend USDHl Debt",
         "category": "Debt",
         "protocol_name": "Hyperlend",
@@ -457,6 +514,7 @@
     },
     "withdrawal_liqhype_999": {
         "id": "withdrawal_liqhype_999",
+        "chainId": 999,
         "name": "LiqHYPE Withdrawal",
         "category": "Withdrawal",
         "protocol_name": "Hyperbeat",
@@ -465,6 +523,7 @@
     },
     "kinetiq_vkhype_999": {
         "id": "kinetiq_vkhype_999",
+        "chainId": 999,
         "name": "Kinetiq vkHYPE",
         "category": "Vault",
         "protocol_name": "Kinetiq",
@@ -473,6 +532,7 @@
     },
     "morpho_mev_capital_usr_999": {
         "id": "morpho_mev_capital_usr_999",
+        "chainId": 999,
         "name": "Morpho mevUSR",
         "category": "Vault",
         "protocol_name": "MEV",
@@ -481,6 +541,7 @@
     },
     "morpho_mev_capital_usdt0_999": {
         "id": "morpho_mev_capital_usdt0_999",
+        "chainId": 999,
         "name": "Morpho mevUSDT0",
         "category": "Vault",
         "protocol_name": "MEV",
@@ -489,6 +550,7 @@
     },
     "hypercore_stake_hype": {
         "id": "hypercore_stake_hype",
+        "chainId": 999,
         "name": "Staked HYPE",
         "category": "Staking",
         "protocol_name": "Hyperliquid",
@@ -497,6 +559,7 @@
     },
     "morpho_whype_0x64e7db7f042812d4335947a7cdf6af1093d29478aff5f1ccd93cc67f8aadfddc_999_supply": {
         "id": "morpho_whype_0x64e7db7f042812d4335947a7cdf6af1093d29478aff5f1ccd93cc67f8aadfddc_999_supply",
+        "chainId": 999,
         "name": "Morpho wHYPE Lend x kHYPE",
         "category": "Lending",
         "protocol_name": "Morpho",
@@ -505,6 +568,7 @@
     },
     "pendlelp_liquidhype_30oct2025": {
         "id": "pendlelp_liquidhype_30oct2025",
+        "chainId": 999,
         "name": "LP Pendle liqHYPE Oct 30, 25",
         "category": "DEX",
         "protocol_name": "Pendle",
@@ -513,6 +577,7 @@
     },
     "withdrawal_khype_999": {
         "id": "withdrawal_khype_999",
+        "chainId": 999,
         "name": "kHYPE Withdrawal",
         "category": "Withdrawal",
         "protocol_name": "Kinetiq",
@@ -521,6 +586,7 @@
     },
     "pendlelp_khype_13nov2025": {
         "id": "pendlelp_khype_13nov2025",
+        "chainId": 999,
         "name": "LP Pendle kHYPE Nov 13, 25",
         "category": "DEX",
         "protocol_name": "Pendle",
@@ -529,6 +595,7 @@
     },
     "pendlept_khype_13nov2025": {
         "id": "pendlept_khype_13nov2025",
+        "chainId": 999,
         "name": "PT Pendle kHYPE Nov 13, 25",
         "category": "Fixed Income",
         "protocol_name": "Pendle",
@@ -537,6 +604,7 @@
     },
     "hyperlend_husde_999": {
         "id": "hyperlend_husde_999",
+        "chainId": 999,
         "name": "Hyperlend USDe",
         "category": "Lending",
         "protocol_name": "Hyperlend",
@@ -545,6 +613,7 @@
     },
     "morpho_whype_0xe9a9bb9ed3cc53f4ee9da4eea0370c2c566873d5de807e16559a99907c9ae227_999_borrow": {
         "id": "morpho_whype_0xe9a9bb9ed3cc53f4ee9da4eea0370c2c566873d5de807e16559a99907c9ae227_999_borrow",
+        "chainId": 999,
         "name": "Morpho wHYPE Debt x wstHYPE",
         "category": "Debt",
         "protocol_name": "Morpho",
@@ -553,6 +622,7 @@
     },
     "morpho_whype_0xe9a9bb9ed3cc53f4ee9da4eea0370c2c566873d5de807e16559a99907c9ae227_999_collateral": {
         "id": "morpho_whype_0xe9a9bb9ed3cc53f4ee9da4eea0370c2c566873d5de807e16559a99907c9ae227_999_collateral",
+        "chainId": 999,
         "name": "Morpho wstHYPE Collateral x wHYPE",
         "category": "LST",
         "protocol_name": "Morpho",
@@ -561,6 +631,7 @@
     },
     "morpho_felix_hype_999": {
         "id": "morpho_felix_hype_999",
+        "chainId": 999,
         "name": "Felix feHYPE",
         "category": "Vault",
         "protocol_name": "Felix",
@@ -569,6 +640,7 @@
     },
     "spectrapt swpt-liqhype_999": {
         "id": "spectrapt swpt-liqhype_999",
+        "chainId": 999,
         "name": "PT Spectra liqHYPE Aug 30, 25",
         "category": "Fixed Income",
         "protocol_name": "Spectra",
@@ -577,6 +649,7 @@
     },
     "hyperlend_hpt-khype-13nov2025_999": {
         "id": "hyperlend_hpt-khype-13nov2025_999",
+        "chainId": 999,
         "name": "Hyperlend PT kHYPE Nov 13, 25",
         "category": "Fixed Income",
         "protocol_name": "Hyperlend",
@@ -585,6 +658,7 @@
     },
     "hyperlend_hpt-khype-13nov2025_999_debt": {
         "id": "hyperlend_hpt-khype-13nov2025_999_debt",
+        "chainId": 999,
         "name": "Hyperlend PT kHYPE Nov 13, 25 Debt",
         "category": "Debt",
         "protocol_name": "Hyperlend",
@@ -593,6 +667,7 @@
     },
     "hyperliquid_thbill_999": {
         "id": "hyperliquid_thbill_999",
+        "chainId": 999,
         "name": "tHBILL",
         "category": "Vault",
         "protocol_name": "Theo",
@@ -601,6 +676,7 @@
     },
     "pendlept_vkhype_13nov2025": {
         "id": "pendlept_vkhype_13nov2025",
+        "chainId": 999,
         "name": "PT Pendle vkHYPE Nov 13, 25",
         "category": "Fixed Income",
         "protocol_name": "Pendle",
@@ -609,6 +685,7 @@
     },
     "morpho_felix_usde_999": {
         "id": "morpho_felix_usde_999",
+        "chainId": 999,
         "name": "Felix feUSDe",
         "category": "Vault",
         "protocol_name": "Felix",
@@ -617,6 +694,7 @@
     },
     "morpho_whype_0x1df0d0ebcdc52069692452cb9a3e5cf6c017b237378141eaf08a05ce17205ed6_999_borrow": {
         "id": "morpho_whype_0x1df0d0ebcdc52069692452cb9a3e5cf6c017b237378141eaf08a05ce17205ed6_999_borrow",
+        "chainId": 999,
         "name": "Morpho wHYPE Debt x PT kHYPE Nov 13, 25",
         "category": "Debt",
         "protocol_name": "Morpho",
@@ -625,6 +703,7 @@
     },
     "morpho_whype_0x1df0d0ebcdc52069692452cb9a3e5cf6c017b237378141eaf08a05ce17205ed6_999_collateral": {
         "id": "morpho_whype_0x1df0d0ebcdc52069692452cb9a3e5cf6c017b237378141eaf08a05ce17205ed6_999_collateral",
+        "chainId": 999,
         "name": "Morpho PT kHYPE Nov 13, 25 Collateral x wHYPE",
         "category": "Fixed Income",
         "protocol_name": "Morpho",
@@ -633,6 +712,7 @@
     },
     "pendlept_liquidhype_30oct2025": {
         "id": "pendlept_liquidhype_30oct2025",
+        "chainId": 999,
         "name": "PT Pendle liqHYPE Oct 30, 25",
         "category": "Fixed Income",
         "protocol_name": "Pendle",
@@ -641,6 +721,7 @@
     },
     "pendlept_hwhlp_18dec2025": {
         "id": "pendlept_hwhlp_18dec2025",
+        "chainId": 999,
         "name": "PT Pendle hwHLP Dec 18, 25",
         "category": "Fixed Income",
         "protocol_name": "Pendle",
@@ -649,6 +730,7 @@
     },
     "morpho_usdt0_0xfbe436e9aa361487f0c3e4ff94c88aea72887a4482c6b8bcfec60a8584cdb05e_999_supply": {
         "id": "morpho_usdt0_0xfbe436e9aa361487f0c3e4ff94c88aea72887a4482c6b8bcfec60a8584cdb05e_999_supply",
+        "chainId": 999,
         "name": "Morpho USDT0 Lend x thBILL",
         "category": "Lending",
         "protocol_name": "Morpho",
@@ -657,6 +739,7 @@
     },
     "hyperlend_husde_999_debt": {
         "id": "hyperlend_husde_999_debt",
+        "chainId": 999,
         "name": "Hyperlend USDe Debt",
         "category": "Debt",
         "protocol_name": "Hyperlend",
@@ -665,6 +748,7 @@
     },
     "hypurrfi_hyusde_999": {
         "id": "hypurrfi_hyusde_999",
+        "chainId": 999,
         "name": "HypurrFi USDe",
         "category": "Lending",
         "protocol_name": "HypurrFi",
@@ -673,6 +757,7 @@
     },
     "hypurrfi_hyusde_999_debt": {
         "id": "hypurrfi_hyusde_999_debt",
+        "chainId": 999,
         "name": "HypurrFi USDe Debt",
         "category": "Debt",
         "protocol_name": "HypurrFi",
@@ -681,6 +766,7 @@
     },
     "morpho_felix_usdt0_(frontier)_999": {
         "id": "morpho_felix_usdt0_(frontier)_999",
+        "chainId": 999,
         "name": "Felix Frontier feUSDT0",
         "category": "Vault",
         "protocol_name": "Felix",
@@ -689,6 +775,7 @@
     },
     "pendlelp_dnhype_20nov2025": {
         "id": "pendlelp_dnhype_20nov2025",
+        "chainId": 999,
         "name": "LP Pendle dnHYPE Nov 20, 25",
         "category": "DEX",
         "protocol_name": "Pendle",
@@ -697,6 +784,7 @@
     },
     "hyperliquid_behype_999": {
         "id": "hyperliquid_behype_999",
+        "chainId": 999,
         "name": "beHYPE",
         "category": "LST",
         "protocol_name": "Hyperbeat",
@@ -705,6 +793,7 @@
     },
     "hyperswap_whype_behype_100_999": {
         "id": "hyperswap_whype_behype_100_999",
+        "chainId": 999,
         "name": "Hyperswap wHYPE-beHYPE",
         "category": "DEX",
         "protocol_name": "Hyperswap",
@@ -713,6 +802,7 @@
     },
     "withdrawal_behype_999": {
         "id": "withdrawal_behype_999",
+        "chainId": 999,
         "name": "beHYPE Withdrawal",
         "category": "Withdrawal",
         "protocol_name": "Hyperbeat",
@@ -721,6 +811,7 @@
     },
     "hyperliquid_usdc_999": {
         "id": "hyperliquid_usdc_999",
+        "chainId": 999,
         "name": "USDC",
         "category": "Hold",
         "protocol_name": "Circle",
@@ -729,6 +820,7 @@
     },
     "hyperlend_husdc_999": {
         "id": "hyperlend_husdc_999",
+        "chainId": 999,
         "name": "Hyperlend USDC",
         "category": "Lending",
         "protocol_name": "Hyperlend",
@@ -737,6 +829,7 @@
     },
     "hyperlend_husdc_999_debt": {
         "id": "hyperlend_husdc_999_debt",
+        "chainId": 999,
         "name": "Hyperlend USDC Debt",
         "category": "Debt",
         "protocol_name": "Hyperlend",
@@ -745,6 +838,7 @@
     },
     "hypurrfi_hyusdc_999": {
         "id": "hypurrfi_hyusdc_999",
+        "chainId": 999,
         "name": "HypurrFi USDC",
         "category": "Lending",
         "protocol_name": "HypurrFi",
@@ -753,6 +847,7 @@
     },
     "hypurrfi_hyusdc_999_debt": {
         "id": "hypurrfi_hyusdc_999_debt",
+        "chainId": 999,
         "name": "HypurrFi USDC Debt",
         "category": "Debt",
         "protocol_name": "HypurrFi",
@@ -761,6 +856,7 @@
     },
     "morpho_felix_usdc_999": {
         "id": "morpho_felix_usdc_999",
+        "chainId": 999,
         "name": "Felix feUSDC",
         "category": "Vault",
         "protocol_name": "Felix",
@@ -769,6 +865,7 @@
     },
     "pendlept_behype_19mar2026": {
         "id": "pendlept_behype_19mar2026",
+        "chainId": 999,
         "name": "PT Pendle beHYPE Mar 19, 26",
         "category": "Fixed Income",
         "protocol_name": "Pendle",
@@ -777,6 +874,7 @@
     },
     "pendlelp_dnpump_20nov2025": {
         "id": "pendlelp_dnpump_20nov2025",
+        "chainId": 999,
         "name": "LP Pendle dnPUMP Nov 20, 25",
         "category": "DEX",
         "protocol_name": "Pendle",
@@ -785,6 +883,7 @@
     },
     "pendlelp_behype_19mar2026": {
         "id": "pendlelp_behype_19mar2026",
+        "chainId": 999,
         "name": "LP Pendle beHYPE Mar 19, 26",
         "category": "DEX",
         "protocol_name": "Pendle",
@@ -793,6 +892,7 @@
     },
     "morpho_mev_capital_hype_999": {
         "id": "morpho_mev_capital_hype_999",
+        "chainId": 999,
         "name": "Morpho mevHYPE",
         "category": "Vault",
         "protocol_name": "MEV",
@@ -801,6 +901,7 @@
     },
     "hypercore_perp_xpl": {
         "id": "hypercore_perp_xpl",
+        "chainId": 999,
         "name": "Hypercore XPL perps",
         "category": "Perpetuals",
         "protocol_name": "Hyperliquid",
@@ -809,6 +910,7 @@
     },
     "projectx_whype_khype_500_999": {
         "id": "projectx_whype_khype_500_999",
+        "chainId": 999,
         "name": "Prjx wHYPE-kHYPE",
         "category": "DEX",
         "protocol_name": "ProjectX",
@@ -817,6 +919,7 @@
     },
     "hypercore_spot_xpl": {
         "id": "hypercore_spot_xpl",
+        "chainId": 999,
         "name": "Hypercore spot XPL",
         "category": "Hold",
         "protocol_name": "Hyperliquid",
@@ -825,6 +928,7 @@
     },
     "hyperlend_hkhype_999": {
         "id": "hyperlend_hkhype_999",
+        "chainId": 999,
         "name": "Hyperlend kHYPE",
         "category": "Lending",
         "protocol_name": "Hyperlend",
@@ -833,6 +937,7 @@
     },
     "hyperlend_hkhype_999_debt": {
         "id": "hyperlend_hkhype_999_debt",
+        "chainId": 999,
         "name": "Hyperlend kHYPE Debt",
         "category": "Debt",
         "protocol_name": "Hyperlend",
@@ -841,6 +946,7 @@
     },
     "morpho_whype_0x1df0d0ebcdc52069692452cb9a3e5cf6c017b237378141eaf08a05ce17205ed6_999_supply": {
         "id": "morpho_whype_0x1df0d0ebcdc52069692452cb9a3e5cf6c017b237378141eaf08a05ce17205ed6_999_supply",
+        "chainId": 999,
         "name": "Morpho wHYPE Lend x PT kHYPE Nov 13, 25",
         "category": "Lending",
         "protocol_name": "Morpho",
@@ -849,6 +955,7 @@
     },
     "morpho_whype_0xe9a9bb9ed3cc53f4ee9da4eea0370c2c566873d5de807e16559a99907c9ae227_999_supply": {
         "id": "morpho_whype_0xe9a9bb9ed3cc53f4ee9da4eea0370c2c566873d5de807e16559a99907c9ae227_999_supply",
+        "chainId": 999,
         "name": "Morpho wHYPE Lend x wstHYPE",
         "category": "Lending",
         "protocol_name": "Morpho",
@@ -857,6 +964,7 @@
     },
     "pendlept_hahype_20nov2025": {
         "id": "pendlept_hahype_20nov2025",
+        "chainId": 999,
         "name": "PT Pendle haHYPE Nov 20, 25",
         "category": "Fixed Income",
         "protocol_name": "Pendle",
@@ -865,6 +973,7 @@
     },
     "pendlelp_hahype_20nov2025": {
         "id": "pendlelp_hahype_20nov2025",
+        "chainId": 999,
         "name": "LP Pendle haHYPE Nov 20, 25",
         "category": "DEX",
         "protocol_name": "Pendle",
@@ -873,6 +982,7 @@
     },
     "pendlept_hywhype(mhype)_4_20nov2025": {
         "id": "pendlept_hywhype(mhype)_4_20nov2025",
+        "chainId": 999,
         "name": "PT Pendle mHYPE Nov 20, 25",
         "category": "Fixed Income",
         "protocol_name": "Pendle",
@@ -881,6 +991,7 @@
     },
     "pendlept_lhype_13nov2025": {
         "id": "pendlept_lhype_13nov2025",
+        "chainId": 999,
         "name": "PT Pendle lHYPE Nov 13, 25",
         "category": "Fixed Income",
         "protocol_name": "Pendle",
@@ -889,6 +1000,7 @@
     },
     "hypercore_vault_0xdfc24b077bc1425ad1dea75bcb6f8158e10df303": {
         "id": "hypercore_vault_0xdfc24b077bc1425ad1dea75bcb6f8158e10df303",
+        "chainId": 999,
         "name": "Hypercore HLP Vault",
         "category": "Vault",
         "protocol_name": "Hyperliquid",
@@ -897,6 +1009,7 @@
     },
     "hyperliquid_mhype_999": {
         "id": "hyperliquid_mhype_999",
+        "chainId": 999,
         "name": "mHYPE",
         "category": "LST",
         "protocol_name": "Hyperpie",
@@ -905,6 +1018,7 @@
     },
     "morpho_gauntlet_usdt0_vault_999": {
         "id": "morpho_gauntlet_usdt0_vault_999",
+        "chainId": 999,
         "name": "Gauntlet USDT0",
         "category": "Vault",
         "protocol_name": "Gauntlet",
@@ -913,6 +1027,7 @@
     },
     "morpho_gauntlet_usdc_999": {
         "id": "morpho_gauntlet_usdc_999",
+        "chainId": 999,
         "name": "Gauntlet USDC",
         "category": "Vault",
         "protocol_name": "Gauntlet",
@@ -921,6 +1036,7 @@
     },
     "pendlept_hbhype_18dec2025": {
         "id": "pendlept_hbhype_18dec2025",
+        "chainId": 999,
         "name": "PT Pendle hbHYPE Dec 18, 25",
         "category": "Fixed Income",
         "protocol_name": "Pendle",
@@ -929,6 +1045,7 @@
     },
     "morpho_whype_0xf25db2433ae650155eae04ebd8b3795d19bfcb318d22926a8a5e746e8028e0a8_999_supply": {
         "id": "morpho_whype_0xf25db2433ae650155eae04ebd8b3795d19bfcb318d22926a8a5e746e8028e0a8_999_supply",
+        "chainId": 999,
         "name": "Morpho wHYPE Lend x kHYPE",
         "category": "Lending",
         "protocol_name": "Morpho",
@@ -937,6 +1054,7 @@
     },
     "hyperliquid_lhype_999": {
         "id": "hyperliquid_lhype_999",
+        "chainId": 999,
         "name": "lHYPE",
         "category": "Vault",
         "protocol_name": "Looping",
@@ -945,6 +1063,7 @@
     },
     "withdrawal_vkhype_999": {
         "id": "withdrawal_vkhype_999",
+        "chainId": 999,
         "name": "vkHYPE Withdrawal",
         "category": "Withdrawal",
         "protocol_name": "Kinetiq",
@@ -953,6 +1072,7 @@
     },
     "pendlelp_khype_19mar2026": {
         "id": "pendlelp_khype_19mar2026",
+        "chainId": 999,
         "name": "LP Pendle kHYPE Mar 19, 26",
         "category": "DEX",
         "protocol_name": "Pendle",
