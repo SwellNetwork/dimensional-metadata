@@ -277,11 +277,11 @@
       },
       {
         "address": "0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB",
-        "label": "Hypercore Spot Holdings"
+        "label": "Deposits"
       },
       {
         "address": "0x197F1a807C3188dD6ce38759ACc796721FC35292",
-        "label": "Withdrawals"
+        "label": "Onchain Holdings"
       },
       {
         "address": "0x20c56e5B70a44FbdCBacA6265F9c848e59bf7C39",

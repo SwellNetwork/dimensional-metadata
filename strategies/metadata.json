@@ -530,6 +530,15 @@
         "protocol_logo_url": "https://kinetiq.xyz/_next/static/media/kinetiq-logomark-light.535540b3.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
     },
+    "kinetiq_earn_khype_999": {
+        "id": "kinetiq_earn_khype_999",
+        "chainId": 999,
+        "name": "Kinetiq vkHYPE",
+        "category": "Vault",
+        "protocol_name": "Kinetiq",
+        "protocol_logo_url": "https://kinetiq.xyz/_next/static/media/kinetiq-logomark-light.535540b3.svg",
+        "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
+    },
     "morpho_mev_capital_usr_999": {
         "id": "morpho_mev_capital_usr_999",
         "chainId": 999,
