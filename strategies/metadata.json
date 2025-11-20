@@ -1087,5 +1087,14 @@
         "protocol_name": "Pendle",
         "protocol_logo_url": "https://www.pendle.finance/images/logos/blue-light.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
+    },
+    "pendlept_khype_19mar2026": {
+        "id": "pendlept_khype_19mar2026",
+        "chainId": 999,
+        "name": "PT Pendle kHYPE Mar 19, 26",
+        "category": "Fixed Income",
+        "protocol_name": "Pendle",
+        "protocol_logo_url": "https://www.pendle.finance/images/logos/blue-light.svg",
+        "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
     }
 }
