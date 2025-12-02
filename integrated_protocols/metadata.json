@@ -31,7 +31,17 @@
     "vaultUnderlyingWallets": [
       {
         "address": "0x4DE03cA1F02591B717495cfA19913aD56a2f5858",
-        "label": "Vault"
+        "label": "Vault",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x4DE03cA1F02591B717495cfA19913aD56a2f5858"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x4DE03cA1F02591B717495cfA19913aD56a2f5858"
+          }
+        ]
       }
     ]
   },
@@ -67,23 +77,73 @@
     "vaultUnderlyingWallets": [
       {
         "address": "0xA66B5862FD471A1b1EeC8710071f3d085F79d5e4",
-        "label": "Onchain Holdings"
+        "label": "Onchain Holdings",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xA66B5862FD471A1b1EeC8710071f3d085F79d5e4"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xA66B5862FD471A1b1EeC8710071f3d085F79d5e4"
+          },
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0xA66B5862FD471A1b1EeC8710071f3d085F79d5e4"
+          }
+        ]
       },
       {
         "address": "0xFbCE30C40D7AC30484c719FE3857C8eFb6D08659",
-        "label": "Hypercore Spot Holdings"
+        "label": "Hypercore Spot Holdings",
+        "links": [
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0xFbCE30C40D7AC30484c719FE3857C8eFb6D08659"
+          }
+        ]
       },
       {
         "address": "0x1eff01e0784ae8d06a17AF29A2300D2A9cdA5440",
-        "label": "Withdrawals"
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x1eff01e0784ae8d06a17AF29A2300D2A9cdA5440"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x1eff01e0784ae8d06a17AF29A2300D2A9cdA5440"
+          }
+        ]
       },
       {
         "address": "0x1f5635d4981F2E90c58C8E19582f22c0a46227bB",
-        "label": "Deposits"
+        "label": "Deposits",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x1f5635d4981F2E90c58C8E19582f22c0a46227bB"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x1f5635d4981F2E90c58C8E19582f22c0a46227bB"
+          }
+        ]
       },
       {
         "address": "0xdF7feAADA36cf687962B286661A8b68CCA17E0f7",
-        "label": "Withdrawals"
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xdF7feAADA36cf687962B286661A8b68CCA17E0f7"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xdF7feAADA36cf687962B286661A8b68CCA17E0f7"
+          }
+        ]
       }
     ]
   },
@@ -273,23 +333,73 @@
     "vaultUnderlyingWallets": [
       {
         "address": "0x37B9De93bbe9747c7fc48913417A9AADe1E59FA2",
-        "label": "Onchain Holdings"
+        "label": "Onchain Holdings",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x37B9De93bbe9747c7fc48913417A9AADe1E59FA2"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x37B9De93bbe9747c7fc48913417A9AADe1E59FA2"
+          },
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x37B9De93bbe9747c7fc48913417A9AADe1E59FA2"
+          }
+        ]
       },
       {
         "address": "0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB",
-        "label": "Deposits"
+        "label": "Deposits",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB"
+          }
+        ]
       },
       {
         "address": "0x197F1a807C3188dD6ce38759ACc796721FC35292",
-        "label": "Onchain Holdings"
+        "label": "Onchain Holdings",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x197F1a807C3188dD6ce38759ACc796721FC35292"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x197F1a807C3188dD6ce38759ACc796721FC35292"
+          }
+        ]
       },
       {
         "address": "0x20c56e5B70a44FbdCBacA6265F9c848e59bf7C39",
-        "label": "Deposits"
+        "label": "Deposits",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x20c56e5B70a44FbdCBacA6265F9c848e59bf7C39"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x20c56e5B70a44FbdCBacA6265F9c848e59bf7C39"
+          }
+        ]
       },
       {
         "address": "0x323b85a9e2032b84D32bC7c4aC1b8E332347B347",
-        "label": "Withdrawals"
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x323b85a9e2032b84D32bC7c4aC1b8E332347B347"
+          }
+        ]
       }
     ]
   },
@@ -339,7 +449,17 @@
     "vaultUnderlyingWallets": [
       {
         "address": "0x9BA2EDc44E0A4632EB4723E81d4142353e1bB160",
-        "label": "Vault"
+        "label": "Vault",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x9BA2EDc44E0A4632EB4723E81d4142353e1bB160"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x9BA2EDc44E0A4632EB4723E81d4142353e1bB160"
+          }
+        ]
       }
     ]
   },
