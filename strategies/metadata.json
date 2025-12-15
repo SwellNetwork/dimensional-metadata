@@ -735,7 +735,7 @@
         "category": "DEX",
         "protocol_name": "Pendle",
         "protocol_logo_url": "https://www.pendle.finance/images/logos/blue-light.svg",
-        "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
+        "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
     },
     "morpho_felix_usde_999": {
         "id": "morpho_felix_usde_999",
