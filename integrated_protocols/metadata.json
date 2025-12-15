@@ -1,6 +1,7 @@
 {
   "hwhlp_999": {
     "id": "hwhlp_999",
+    "chainId": 999,
     "name": "Hyperwave hwHLP",
     "category": "LST",
     "protocol": "Hyperwave",
@@ -9,10 +10,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#FFB3B3"
+    "color": "#FFB3B3",
+    "hasBreakdown": false
   },
   "hwhype_999": {
     "id": "hwhype_999",
+    "chainId": 999,
     "name": "Hyperwave hwHYPE",
     "category": "Vault",
     "protocol": "Hyperwave",
@@ -21,10 +24,30 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FF944D"
+    "color": "#FF944D",
+    "hasBreakdown": true,
+    "vaultToken": "0x4DE03cA1F02591B717495cfA19913aD56a2f5858",
+    "vaultLink": "https://app.hyperwavefi.xyz/vaults/hwhype",
+    "vaultUnderlyingWallets": [
+      {
+        "address": "0x4DE03cA1F02591B717495cfA19913aD56a2f5858",
+        "label": "Vault",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x4DE03cA1F02591B717495cfA19913aD56a2f5858"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x4DE03cA1F02591B717495cfA19913aD56a2f5858"
+          }
+        ]
+      }
+    ]
   },
   "hyperbeat_usdt_999": {
     "id": "hyperbeat_usdt_999",
+    "chainId": 999,
     "name": "Hyperbeat hbUSDT",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -33,10 +56,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#B2B2B2"
+    "color": "#B2B2B2",
+    "hasBreakdown": false
   },
   "hyperbeat_lsthype_999": {
     "id": "hyperbeat_lsthype_999",
+    "chainId": 999,
     "name": "Hyperbeat lstHYPE",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -45,10 +70,86 @@
     "showZero": true,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FF6666"
+    "color": "#FF6666",
+    "hasBreakdown": true,
+    "vaultToken": "0x81e064d0eB539de7c3170EDF38C1A42CBd752A76",
+    "vaultLink": "https://app.hyperbeat.org/vaults/lsthype",
+    "vaultUnderlyingWallets": [
+      {
+        "address": "0xA66B5862FD471A1b1EeC8710071f3d085F79d5e4",
+        "label": "Onchain Holdings",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xA66B5862FD471A1b1EeC8710071f3d085F79d5e4"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xA66B5862FD471A1b1EeC8710071f3d085F79d5e4"
+          },
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0xA66B5862FD471A1b1EeC8710071f3d085F79d5e4"
+          }
+        ]
+      },
+      {
+        "address": "0xFbCE30C40D7AC30484c719FE3857C8eFb6D08659",
+        "label": "Hypercore Spot Holdings",
+        "links": [
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0xFbCE30C40D7AC30484c719FE3857C8eFb6D08659"
+          }
+        ]
+      },
+      {
+        "address": "0x1eff01e0784ae8d06a17AF29A2300D2A9cdA5440",
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x1eff01e0784ae8d06a17AF29A2300D2A9cdA5440"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x1eff01e0784ae8d06a17AF29A2300D2A9cdA5440"
+          }
+        ]
+      },
+      {
+        "address": "0x1f5635d4981F2E90c58C8E19582f22c0a46227bB",
+        "label": "Deposits",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x1f5635d4981F2E90c58C8E19582f22c0a46227bB"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x1f5635d4981F2E90c58C8E19582f22c0a46227bB"
+          }
+        ]
+      },
+      {
+        "address": "0xdF7feAADA36cf687962B286661A8b68CCA17E0f7",
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xdF7feAADA36cf687962B286661A8b68CCA17E0f7"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xdF7feAADA36cf687962B286661A8b68CCA17E0f7"
+          }
+        ]
+      }
+    ]
   },
   "hyperbeat_liqhype_999": {
     "id": "hyperbeat_liqhype_999",
+    "chainId": 999,
     "name": "Hyperbeat liquidHYPE",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -57,10 +158,12 @@
     "showZero": true,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FFCC66"
+    "color": "#FFCC66",
+    "hasBreakdown": false
   },
   "hyperbeat_behype_999": {
     "id": "hyperbeat_behype_999",
+    "chainId": 999,
     "name": "Hyperbeat beHYPE",
     "protocol": "Hyperbeat",
     "category": "LST",
@@ -69,10 +172,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#CC99FF"
+    "color": "#7FC8FF",
+    "hasBreakdown": false
   },
   "hyperbeat_usdc_999": {
     "id": "hyperbeat_usdc_999",
+    "chainId": 999,
     "name": "Hyperbeat hbUSDC",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -81,10 +186,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#99FF99"
+    "color": "#99FF99",
+    "hasBreakdown": false
   },
   "whlp_999": {
     "id": "whlp_999",
+    "chainId": 999,
     "name": "Looping Collective wHLP",
     "protocol": "Looping Collective",
     "category": "LST",
@@ -93,10 +200,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#FF99CC"
+    "color": "#FF99CC",
+    "hasBreakdown": false
   },
   "hypurrfi_hyusdt0_999": {
     "id": "hypurrfi_hyusdt0_999",
+    "chainId": 999,
     "name": "HypurrFi USDT0",
     "category": "Lending",
     "protocol": "HypurrFi",
@@ -105,10 +214,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#A86BFF"
+    "color": "#A86BFF",
+    "hasBreakdown": false
   },
   "hypurrfi_hyusde_999": {
     "id": "hypurrfi_hyusde_999",
+    "chainId": 999,
     "name": "HypurrFi USDe",
     "category": "Lending",
     "protocol": "HypurrFi",
@@ -117,10 +228,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#FF4DA6"
+    "color": "#FF4DA6",
+    "hasBreakdown": false
   },
   "hypurrfi_hywhype_999": {
     "id": "hypurrfi_hywhype_999",
+    "chainId": 999,
     "name": "HypurrFi WHYPE",
     "category": "Lending",
     "protocol": "HypurrFi",
@@ -129,10 +242,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#99FF99"
+    "color": "#99FF99",
+    "hasBreakdown": false
   },
   "hypurrfi_hyusdhl_999": {
     "id": "hypurrfi_hyusdhl_999",
+    "chainId": 999,
     "name": "HypurrFi USDhl",
     "protocol": "HypurrFi",
     "category": "Lending",
@@ -141,10 +256,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#FFCC99"
+    "color": "#FFCC99",
+    "hasBreakdown": false
   },
   "hyperlend_husdhl_999": {
     "id": "hyperlend_husdhl_999",
+    "chainId": 999,
     "name": "HyperLend USDhl",
     "protocol": "HyperLend",
     "category": "Lending",
@@ -153,10 +270,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#B2FFB2"
+    "color": "#B2FFB2",
+    "hasBreakdown": false
   },
   "hyperlend_husdt0_999": {
     "id": "hyperlend_husdt0_999",
+    "chainId": 999,
     "name": "HyperLend USDT0",
     "protocol": "HyperLend",
     "category": "Lending",
@@ -165,10 +284,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#FF6666"
+    "color": "#FF6666",
+    "hasBreakdown": false
   },
   "hyperlend_hwhype_999": {
     "id": "hyperlend_hwhype_999",
+    "chainId": 999,
     "name": "HyperLend WHYPE",
     "protocol": "HyperLend",
     "category": "Lending",
@@ -177,10 +298,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#99CCFF"
+    "color": "#99CCFF",
+    "hasBreakdown": false
   },
   "hyperlend_husde_999": {
     "id": "hyperlend_husde_999",
+    "chainId": 999,
     "name": "HyperLend USDe",
     "protocol": "HyperLend",
     "category": "Lending",
@@ -189,10 +312,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#FFFF99"
+    "color": "#FFFF99",
+    "hasBreakdown": false
   },
   "hyperliquid_hbhype_999": {
     "id": "hyperliquid_hbhype_999",
+    "chainId": 999,
     "name": "Hyperbeat Ultra HYPE",
     "protocol": "Hyperbeat",
     "category": "Vault",
@@ -201,10 +326,86 @@
     "showZero": true,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FF9999"
+    "color": "#FF9999",
+    "hasBreakdown": true,
+    "vaultToken": "0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB",
+    "vaultLink": "https://app.hyperbeat.org/vaults/hype",
+    "vaultUnderlyingWallets": [
+      {
+        "address": "0x37B9De93bbe9747c7fc48913417A9AADe1E59FA2",
+        "label": "Onchain Holdings",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x37B9De93bbe9747c7fc48913417A9AADe1E59FA2"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x37B9De93bbe9747c7fc48913417A9AADe1E59FA2"
+          },
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x37B9De93bbe9747c7fc48913417A9AADe1E59FA2"
+          }
+        ]
+      },
+      {
+        "address": "0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB",
+        "label": "Deposits",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB"
+          }
+        ]
+      },
+      {
+        "address": "0x197F1a807C3188dD6ce38759ACc796721FC35292",
+        "label": "Onchain Holdings",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x197F1a807C3188dD6ce38759ACc796721FC35292"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x197F1a807C3188dD6ce38759ACc796721FC35292"
+          }
+        ]
+      },
+      {
+        "address": "0x20c56e5B70a44FbdCBacA6265F9c848e59bf7C39",
+        "label": "Deposits",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x20c56e5B70a44FbdCBacA6265F9c848e59bf7C39"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x20c56e5B70a44FbdCBacA6265F9c848e59bf7C39"
+          }
+        ]
+      },
+      {
+        "address": "0x323b85a9e2032b84D32bC7c4aC1b8E332347B347",
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x323b85a9e2032b84D32bC7c4aC1b8E332347B347"
+          }
+        ]
+      }
+    ]
   },
   "hyperliquid_khype_999": {
     "id": "hyperliquid_khype_999",
+    "chainId": 999,
     "name": "Kinetiq kHYPE",
     "protocol": "Kinetiq",
     "category": "LST",
@@ -213,10 +414,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#B2B2FF"
+    "color": "#B2B2FF",
+    "hasBreakdown": false
   },
   "hyperliquid_lhype_999": {
     "id": "hyperliquid_lhype_999",
+    "chainId": 999,
     "name": "Looping Collective lHYPE",
     "protocol": "Looping Collective",
     "category": "Vault",
@@ -225,10 +428,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FFB2FF"
+    "color": "#FFB2FF",
+    "hasBreakdown": false
   },
   "kinetiq_earn_khype_999": {
     "id": "kinetiq_earn_khype_999",
+    "chainId": 999,
     "name": "Kinetiq Earn vkHYPE",
     "protocol": "Kinetiq",
     "category": "Vault",
@@ -237,10 +442,30 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#66B3FF"
+    "color": "#66B3FF",
+    "hasBreakdown": true,
+    "vaultToken": "0x9BA2EDc44E0A4632EB4723E81d4142353e1bB160",
+    "vaultLink": "https://kinetiq.xyz/earn",
+    "vaultUnderlyingWallets": [
+      {
+        "address": "0x9BA2EDc44E0A4632EB4723E81d4142353e1bB160",
+        "label": "Vault",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x9BA2EDc44E0A4632EB4723E81d4142353e1bB160"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x9BA2EDc44E0A4632EB4723E81d4142353e1bB160"
+          }
+        ]
+      }
+    ]
   },
   "valantis_khype_amm_lp_999": {
     "id": "valantis_khype_amm_lp_999",
+    "chainId": 999,
     "name": "Valantis kHYPE AMM",
     "protocol": "Valantis",
     "category": "Vault",
@@ -249,10 +474,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FF66FF"
+    "color": "#FF66FF",
+    "hasBreakdown": false
   },
   "valantis_wsthype_amm_lp_999": {
     "id": "valantis_wsthype_amm_lp_999",
+    "chainId": 999,
     "name": "Valantis stHYPE AMM",
     "protocol": "Valantis",
     "category": "Vault",
@@ -261,10 +488,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#CCCCCC"
+    "color": "#CCCCCC",
+    "hasBreakdown": false
   },
   "hyperdrive_hyped_999": {
     "id": "hyperdrive_hyped_999",
+    "chainId": 999,
     "name": "Hyperdrive HYPED",
     "protocol": "Hyperdrive",
     "category": "LST",
@@ -273,10 +502,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#66FF66"
+    "color": "#66FF66",
+    "hasBreakdown": false
   },
   "hyperbeat_dnhype_999": {
     "id": "hyperbeat_dnhype_999",
+    "chainId": 999,
     "name": "Hyperbeat dnHYPE",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -285,10 +516,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#4DFCEF"
+    "color": "#4DFCEF",
+    "hasBreakdown": false
   },
   "hyperbeat_dnpump_999": {
     "id": "hyperbeat_dnpump_999",
+    "chainId": 999,
     "name": "Hyperbeat dnPUMP",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -297,10 +530,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#FFFFFF"
+    "color": "#FFFFFF",
+    "hasBreakdown": false
   },
   "hyperbeat_wvlp_999": {
     "id": "hyperbeat_wvlp_999",
+    "chainId": 999,
     "name": "Hyperbeat wVLP",
     "category": "Vault",
     "protocol": "Hyperbeat",
@@ -309,10 +544,12 @@
     "showZero": false,
     "showDefault": true,
     "type": "USD",
-    "color": "#999999"
+    "color": "#999999",
+    "hasBreakdown": false
   },
   "harmonix_hahype_999": {
     "id": "harmonix_hahype_999",
+    "chainId": 999,
     "name": "Harmonix haHYPE",
     "category": "Vault",
     "protocol": "Harmonix",
@@ -321,6 +558,7 @@
     "showZero": false,
     "showDefault": true,
     "type": "HYPE",
-    "color": "#FFCCFF"
+    "color": "#FFCCFF",
+    "hasBreakdown": false
   }
 }
