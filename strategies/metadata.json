@@ -323,6 +323,15 @@
         "protocol_logo_url": "https://app.valantis.xyz/logo.svg",
         "underlying_logo_url": "https://app.valantis.xyz/lp-hype.svg"
     },
+    "valantis_khype_amm_lp_999": {
+        "id": "valantis_khype_amm_lp_999",
+        "chainId": 999,
+        "name": "Valantis kHYPE STEX",
+        "category": "DEX",
+        "protocol_name": "Valantis",
+        "protocol_logo_url": "https://app.valantis.xyz/logo.svg",
+        "underlying_logo_url": "https://app.valantis.xyz/lp-khype.svg"
+    },
     "hyperliquid_rlp_999": {
         "id": "hyperliquid_rlp_999",
         "chainId": 999,
@@ -412,6 +421,15 @@
         "protocol_name": "Hyperliquid",
         "protocol_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5555555555555555555555555555555555555555.svg",
         "underlying_logo_url": "https://pump.fun/pump-logomark.svg"
+    },
+    "hypercore_spot_kntq": {
+        "id": "hypercore_spot_kntq",
+        "chainId": 999,
+        "name": "Hypercore spot KNTQ",
+        "category": "Hold",
+        "protocol_name": "Kinetiq",
+        "protocol_logo_url": "https://kinetiq.xyz/_next/static/media/kinetiq-logomark-light.535540b3.svg",
+        "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x000000000000780555bd0bca3791f89f9542c2d6.svg"
     },
     "hyperliquid_khype_999": {
         "id": "hyperliquid_khype_999",
@@ -656,6 +674,15 @@
         "protocol_logo_url": "https://1608032478-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FaSE6NakmHsqUzyells7H%2Fuploads%2FPjlO4Lb1mNgG1sFO6Ae9%2FSPECTRA_TOKEN.svg?alt=media&token=3db84d3f-59e6-4828-a062-0eec964f5007",
         "underlying_logo_url": "https://www.hyperbeat.org/brand/liquidhype.svg"
     },
+    "spectra pt_swpt-liqhype_999": {
+        "id": "spectra pt_swpt-liqhype_999",
+        "chainId": 999,
+        "name": "PT Spectra liqHYPE Aug 30, 25",
+        "category": "Fixed Income",
+        "protocol_name": "Spectra",
+        "protocol_logo_url": "https://1608032478-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FaSE6NakmHsqUzyells7H%2Fuploads%2FPjlO4Lb1mNgG1sFO6Ae9%2FSPECTRA_TOKEN.svg?alt=media&token=3db84d3f-59e6-4828-a062-0eec964f5007",
+        "underlying_logo_url": "https://www.hyperbeat.org/brand/liquidhype.svg"
+    },
     "hyperlend_hpt-khype-13nov2025_999": {
         "id": "hyperlend_hpt-khype-13nov2025_999",
         "chainId": 999,
@@ -692,6 +719,24 @@
         "protocol_logo_url": "https://www.pendle.finance/images/logos/blue-light.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
     },
+    "pendlept_vkhype_19mar2026": {
+        "id": "pendlept_vkhype_19mar2026",
+        "chainId": 999,
+        "name": "PT Pendle vkHYPE Mar 19, 26",
+        "category": "Fixed Income",
+        "protocol_name": "Pendle",
+        "protocol_logo_url": "https://www.pendle.finance/images/logos/blue-light.svg",
+        "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
+    },
+    "pendlelp_vkhype_19mar2026": {
+        "id": "pendlelp_vkhype_19mar2026",
+        "chainId": 999,
+        "name": "LP Pendle vkHYPE Mar 19, 26",
+        "category": "DEX",
+        "protocol_name": "Pendle",
+        "protocol_logo_url": "https://www.pendle.finance/images/logos/blue-light.svg",
+        "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
+    },
     "morpho_felix_usde_999": {
         "id": "morpho_felix_usde_999",
         "chainId": 999,
@@ -723,6 +768,15 @@
         "id": "pendlept_liquidhype_30oct2025",
         "chainId": 999,
         "name": "PT Pendle liqHYPE Oct 30, 25",
+        "category": "Fixed Income",
+        "protocol_name": "Pendle",
+        "protocol_logo_url": "https://www.pendle.finance/images/logos/blue-light.svg",
+        "underlying_logo_url": "https://www.hyperbeat.org/brand/liquidhype.svg"
+    },
+    "pendlept_liquidhype_29jan2026": {
+        "id": "pendlept_liquidhype_29jan2026",
+        "chainId": 999,
+        "name": "PT Pendle liqHYPE Jan 29, 26",
         "category": "Fixed Income",
         "protocol_name": "Pendle",
         "protocol_logo_url": "https://www.pendle.finance/images/logos/blue-light.svg",
@@ -1096,5 +1150,14 @@
         "protocol_name": "Pendle",
         "protocol_logo_url": "https://www.pendle.finance/images/logos/blue-light.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
+    },
+    "pendlept_sthype_26feb2026": {
+        "id": "pendlept_sthype_26feb2026",
+        "chainId": 999,
+        "name": "PT Pendle stHYPE Feb 26, 26",
+        "category": "Fixed Income",
+        "protocol_name": "Pendle",
+        "protocol_logo_url": "https://www.pendle.finance/images/logos/blue-light.svg",
+        "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
     }
 }
