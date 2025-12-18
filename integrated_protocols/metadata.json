@@ -517,7 +517,57 @@
     "showDefault": true,
     "type": "USD",
     "color": "#4DFCEF",
-    "hasBreakdown": false
+    "hasBreakdown": true,
+    "vaultToken": "0x949a7250Bb55Eb79BC6bCC97fCd1C473DB3e6F29",
+    "vaultLink": "https://app.hyperbeat.org/vaults/dnhype",
+    "vaultUnderlyingWallets": [
+      {
+        "address": "0x1Da7920cA7f9ee28D481BC439dccfED09F52a237",
+        "label": "Deposit",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x1Da7920cA7f9ee28D481BC439dccfED09F52a237"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x1Da7920cA7f9ee28D481BC439dccfED09F52a237"
+          },
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x1Da7920cA7f9ee28D481BC439dccfED09F52a237"
+          }
+        ]
+      },
+      {
+        "address": "0xCA36897Cd0783a558f46407Cd663d0f46d2f3386",
+        "label": "Hypercore Holdings",
+        "links": [
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0xCA36897Cd0783a558f46407Cd663d0f46d2f3386"
+          }
+        ]
+      },
+      {
+        "address": "0x51f624E7B5E8bc85F7c798c24048E686D495B283",
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x51f624E7B5E8bc85F7c798c24048E686D495B283"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x51f624E7B5E8bc85F7c798c24048E686D495B283"
+          },
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x51f624E7B5E8bc85F7c798c24048E686D495B283"
+          }
+        ]
+      }
+    ]
   },
   "hyperbeat_dnpump_999": {
     "id": "hyperbeat_dnpump_999",
@@ -531,7 +581,57 @@
     "showDefault": true,
     "type": "USD",
     "color": "#FFFFFF",
-    "hasBreakdown": false
+    "hasBreakdown": true,
+    "vaultToken": "0x8858A307a85982c2B3CB2AcE1720237f2f09c39B",
+    "vaultLink": "https://app.hyperbeat.org/vaults/dnpump",
+    "vaultUnderlyingWallets": [
+      {
+        "address": "0xCA0Eb15d0efF480c15aC9071db8F47aF9b35ce98",
+        "label": "Deposit",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xCA0Eb15d0efF480c15aC9071db8F47aF9b35ce98"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xCA0Eb15d0efF480c15aC9071db8F47aF9b35ce98"
+          },
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0xCA0Eb15d0efF480c15aC9071db8F47aF9b35ce98"
+          }
+        ]
+      },
+      {
+        "address": "0x975B62b498ed8369F781c2bD2E181EE53612A704",
+        "label": "Hypercore Holdings",
+        "links": [
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x975B62b498ed8369F781c2bD2E181EE53612A704"
+          }
+        ]
+      },
+      {
+        "address": "0x002938EA69c219249Bdde73cE0F0baF3C3001120",
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x002938EA69c219249Bdde73cE0F0baF3C3001120"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x002938EA69c219249Bdde73cE0F0baF3C3001120"
+          },
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x002938EA69c219249Bdde73cE0F0baF3C3001120"
+          }
+        ]
+      }
+    ]
   },
   "hyperbeat_wvlp_999": {
     "id": "hyperbeat_wvlp_999",
