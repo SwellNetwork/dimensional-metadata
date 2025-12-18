@@ -523,7 +523,7 @@
     "vaultUnderlyingWallets": [
       {
         "address": "0x1Da7920cA7f9ee28D481BC439dccfED09F52a237",
-        "label": "Deposit",
+        "label": "Deposits",
         "links": [
           {
             "type": "hyperevmscan",
