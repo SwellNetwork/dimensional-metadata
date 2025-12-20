@@ -281,7 +281,53 @@
     "showDefault": true,
     "type": "USD",
     "color": "#99FF99",
-    "hasBreakdown": false
+    "hasBreakdown": true,
+    "vaultToken": "0x057ced81348D57Aad579A672d521d7b4396E8a61",
+    "vaultLink": "https://app.hyperbeat.org/vaults/usdc",
+    "vaultUnderlyingWallets": [
+      {
+        "address": "0xb25416121196C1e54Dd64F3481a5Bad3Ab2DFB2B",
+        "label": "Deposit",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xb25416121196C1e54Dd64F3481a5Bad3Ab2DFB2B"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xb25416121196C1e54Dd64F3481a5Bad3Ab2DFB2B"
+          }
+        ]
+      },
+      {
+        "address": "0xBBB2f471a72D4ea4B2C92B65859A503526BB3622",
+        "label": "Onchain Holdings",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xBBB2f471a72D4ea4B2C92B65859A503526BB3622"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xBBB2f471a72D4ea4B2C92B65859A503526BB3622"
+          }
+        ]
+      },
+      {
+        "address": "0x9321D8117E73B0c79035F0E87DEbCFd8dbb1D75A",
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x9321D8117E73B0c79035F0E87DEbCFd8dbb1D75A"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x9321D8117E73B0c79035F0E87DEbCFd8dbb1D75A"
+          }
+        ]
+      }
+    ]
   },
   "whlp_999": {
     "id": "whlp_999",
