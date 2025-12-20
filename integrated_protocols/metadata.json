@@ -57,7 +57,101 @@
     "showDefault": true,
     "type": "USD",
     "color": "#B2B2B2",
-    "hasBreakdown": false
+    "hasBreakdown": true,
+    "vaultToken": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+    "vaultLink": "https://app.hyperbeat.org/vaults/usdt",
+    "vaultUnderlyingWallets": [
+      {
+        "address": "0x5064D3E2906317905f1d59663D5Fa257c15a704a",
+        "label": "Onchain Holdings",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x5064D3E2906317905f1d59663D5Fa257c15a704a"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x5064D3E2906317905f1d59663D5Fa257c15a704a"
+          },
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x5064D3E2906317905f1d59663D5Fa257c15a704a"
+          }
+        ]
+      },
+      {
+        "address": "0xD317d8Bf73fCB1758bAA772819163B452D6e2b01",
+        "label": "Deposit",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xD317d8Bf73fCB1758bAA772819163B452D6e2b01"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xD317d8Bf73fCB1758bAA772819163B452D6e2b01"
+          }
+        ]
+      },
+      {
+        "address": "0x1C020F03305acD09994C1910D440646E4a5F91B0",
+        "label": "Hypercore Spot Holdings",
+        "links": [
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x1C020F03305acD09994C1910D440646E4a5F91B0"
+          }
+        ]
+      },
+      {
+        "address": "0xf545003323DA8419Ce95dD4137eC90577D420eA1",
+        "label": "Hypercore Holdings",
+        "links": [
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0xf545003323DA8419Ce95dD4137eC90577D420eA1"
+          }
+        ]
+      },
+      {
+        "address": "0x77930A9cd3Db2A9e49f730Db8743bece140260C9",
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x77930A9cd3Db2A9e49f730Db8743bece140260C9"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x77930A9cd3Db2A9e49f730Db8743bece140260C9"
+          }
+        ]
+      },
+      {
+        "address": "0xC898a5cbDb81F260bd5306D9F9B9A893D0FdF042",
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xC898a5cbDb81F260bd5306D9F9B9A893D0FdF042"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xC898a5cbDb81F260bd5306D9F9B9A893D0FdF042"
+          }
+        ]
+      },
+      {
+        "address": "0x93C3d5243913BEcBcC48E921D5390c88A4E1242b",
+        "label": "Hypercore Spot Holdings",
+        "links": [
+          {
+            "type": "hypurrscan",
+            "url": "https://hypurrscan.io/address/0x93C3d5243913BEcBcC48E921D5390c88A4E1242b"
+          }
+        ]
+      }
+    ]
   },
   "hyperbeat_lsthype_999": {
     "id": "hyperbeat_lsthype_999",
