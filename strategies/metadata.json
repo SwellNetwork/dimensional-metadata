@@ -836,6 +836,15 @@
         "protocol_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70.svg",
         "underlying_logo_url": "https://tether.to/images/logoCircle.svg"
     },
+    "morpho_felix_usdc_(frontier)_999": {
+        "id": "morpho_felix_usdc_(frontier)_999",
+        "chainId": 999,
+        "name": "Felix Frontier feUSDC",
+        "category": "Vault",
+        "protocol_name": "Felix",
+        "protocol_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70.svg",
+        "underlying_logo_url": "https://cdn.prod.website-files.com/67116d0daddc92483c812e88/67f70c16822274e9e063e81e_9dd0e90b80eda66f26a25533e4874fe9_usdc-tokenlogo.svg"
+    },
     "pendlelp_dnhype_20nov2025": {
         "id": "pendlelp_dnhype_20nov2025",
         "chainId": 999,
