@@ -707,8 +707,8 @@
         "name": "tHBILL",
         "category": "Vault",
         "protocol_name": "Theo",
-        "protocol_logo_url": "https://file.notion.so/f/f/a80f455c-62b2-483c-8bb8-456a080435c3/b74bf404-95a6-4f82-945b-54de27f2e5ad/Theo-Glyph-Seaweed-RGB.svg?table=block&id=21b8e640-6108-80b2-96c3-e69e59afc7e2&spaceId=a80f455c-62b2-483c-8bb8-456a080435c3&expirationTimestamp=1763136000000&signature=-tUFepmNlHNHSI3Eepadp7ZMEqnE5-4wTm2zD0M71Qw&downloadName=Theo-Glyph-Seaweed-RGB.svg",
-        "underlying_logo_url": "https://img.notionusercontent.com/s3/prod-files-secure%2Fa80f455c-62b2-483c-8bb8-456a080435c3%2Ffb9d1c1f-328b-41f1-8c6f-f8272296bbb6%2FTHBILL_Mark.svg/size/?exp=1763196038&sig=n2rh7N6LGx8eaT_LtX6ec1iqMFvwid1315vhRDEXegM&id=23f8e640-6108-80f8-beb9-c1b0de3e6075&table=block"
+        "protocol_logo_url": "https://i.ibb.co/rGRJ4c2C/image.png",
+        "underlying_logo_url": "https://i.ibb.co/QjY36h36/image.png"
     },
     "pendlept_vkhype_13nov2025": {
         "id": "pendlept_vkhype_13nov2025",
@@ -835,6 +835,15 @@
         "protocol_name": "Felix",
         "protocol_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70.svg",
         "underlying_logo_url": "https://tether.to/images/logoCircle.svg"
+    },
+    "morpho_felix_usdc_(frontier)_999": {
+        "id": "morpho_felix_usdc_(frontier)_999",
+        "chainId": 999,
+        "name": "Felix Frontier feUSDC",
+        "category": "Vault",
+        "protocol_name": "Felix",
+        "protocol_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70.svg",
+        "underlying_logo_url": "https://cdn.prod.website-files.com/67116d0daddc92483c812e88/67f70c16822274e9e063e81e_9dd0e90b80eda66f26a25533e4874fe9_usdc-tokenlogo.svg"
     },
     "pendlelp_dnhype_20nov2025": {
         "id": "pendlelp_dnhype_20nov2025",
@@ -1166,7 +1175,7 @@
         "name": "Hyperbeat USDT",
         "category": "Vault",
         "protocol_name": "Hyperbeat",
-        "protocol_logo_url": "https://www.hyperbeat.org/brand/hyperbeat-logo.svg",
+        "protocol_logo_url": "https://www.hyperbeat.org/brand/mono-white.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x5e105266db42f78fa814322bce7f388b4c2e61eb.svg"
     },
     "hyperbeat_lsthype_999": {
@@ -1175,7 +1184,7 @@
         "name": "Hyperbeat lstHYPE",
         "category": "Vault",
         "protocol_name": "Hyperbeat",
-        "protocol_logo_url": "https://www.hyperbeat.org/brand/hyperbeat-logo.svg",
+        "protocol_logo_url": "https://www.hyperbeat.org/brand/mono-white.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x81e064d0eB539de7c3170EDF38C1A42CBd752A76.svg"
     },
     "hyperbeat_liqhype_999": {
@@ -1184,7 +1193,7 @@
         "name": "Hyperbeat liqHYPE",
         "category": "Vault",
         "protocol_name": "Hyperbeat",
-        "protocol_logo_url": "https://www.hyperbeat.org/brand/hyperbeat-logo.svg",
+        "protocol_logo_url": "https://www.hyperbeat.org/brand/mono-white.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x441794d6a8f9a3739f5d4e98a728937b33489d29.svg"
     },
     "hyperbeat_usdc_999": {
@@ -1193,7 +1202,7 @@
         "name": "Hyperbeat USDC",
         "category": "Vault",
         "protocol_name": "Hyperbeat",
-        "protocol_logo_url": "https://www.hyperbeat.org/brand/hyperbeat-logo.svg",
+        "protocol_logo_url": "https://www.hyperbeat.org/brand/mono-white.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x057ced81348D57Aad579A672d521d7b4396E8a61.svg"
     },
     "hyperbeat_dnpump_999": {
@@ -1202,7 +1211,7 @@
         "name": "Hyperbeat dnPUMP",
         "category": "Vault",
         "protocol_name": "Hyperbeat",
-        "protocol_logo_url": "https://www.hyperbeat.org/brand/hyperbeat-logo.svg",
+        "protocol_logo_url": "https://www.hyperbeat.org/brand/mono-white.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x8858a307a85982c2b3cb2ace1720237f2f09c39b.svg"
     },
     "hyperbeat_dnhype_999": {
@@ -1211,7 +1220,7 @@
         "name": "Hyperbeat dnHYPE",
         "category": "Vault",
         "protocol_name": "Hyperbeat",
-        "protocol_logo_url": "https://www.hyperbeat.org/brand/hyperbeat-logo.svg",
+        "protocol_logo_url": "https://www.hyperbeat.org/brand/mono-white.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29.svg"
     },
     "hyperliquid_hbhype_999": {
@@ -1220,7 +1229,7 @@
         "name": "Hyperbeat hbHYPE",
         "category": "Vault",
         "protocol_name": "Hyperbeat",
-        "protocol_logo_url": "https://www.hyperbeat.org/brand/hyperbeat-logo.svg",
+        "protocol_logo_url": "https://www.hyperbeat.org/brand/mono-white.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg"
     },
     "withdrawal_hbhype_999": {
@@ -1229,7 +1238,7 @@
         "name": "hbHYPE Withdrawal",
         "category": "Withdrawal",
         "protocol_name": "Hyperbeat",
-        "protocol_logo_url": "https://www.hyperbeat.org/brand/hyperbeat-logo.svg",
+        "protocol_logo_url": "https://www.hyperbeat.org/brand/mono-white.svg",
         "underlying_logo_url": "https://raw.githubusercontent.com/SwellNetwork/dimensional-metadata/refs/heads/main/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg"
     }
 }
