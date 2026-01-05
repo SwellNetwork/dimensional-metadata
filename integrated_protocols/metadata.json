@@ -63,7 +63,7 @@
     "vaultUnderlyingWallets": [
       {
         "address": "0x5064D3E2906317905f1d59663D5Fa257c15a704a",
-        "label": "Onchain Holdings",
+        "label": "[Old] Onchain Holdings",
         "links": [
           {
             "type": "hyperevmscan",
@@ -81,7 +81,7 @@
       },
       {
         "address": "0xD317d8Bf73fCB1758bAA772819163B452D6e2b01",
-        "label": "Deposit",
+        "label": "[Old] Deposit",
         "links": [
           {
             "type": "hyperevmscan",
@@ -95,7 +95,7 @@
       },
       {
         "address": "0x1C020F03305acD09994C1910D440646E4a5F91B0",
-        "label": "Hypercore Spot Holdings",
+        "label": "[Old] Hypercore Spot Holdings",
         "links": [
           {
             "type": "hypurrscan",
@@ -105,7 +105,7 @@
       },
       {
         "address": "0xf545003323DA8419Ce95dD4137eC90577D420eA1",
-        "label": "Hypercore Holdings",
+        "label": "[Old] Hypercore Holdings",
         "links": [
           {
             "type": "hypurrscan",
@@ -115,7 +115,7 @@
       },
       {
         "address": "0x77930A9cd3Db2A9e49f730Db8743bece140260C9",
-        "label": "Withdrawals",
+        "label": "[Old] Withdrawals",
         "links": [
           {
             "type": "hyperevmscan",
@@ -129,7 +129,7 @@
       },
       {
         "address": "0xC898a5cbDb81F260bd5306D9F9B9A893D0FdF042",
-        "label": "Withdrawals",
+        "label": "[Old] Withdrawals",
         "links": [
           {
             "type": "hyperevmscan",
@@ -143,7 +143,7 @@
       },
       {
         "address": "0x93C3d5243913BEcBcC48E921D5390c88A4E1242b",
-        "label": "Hypercore Spot Holdings",
+        "label": "[Old] Hypercore Spot Holdings",
         "links": [
           {
             "type": "hypurrscan",
@@ -287,7 +287,7 @@
     "vaultUnderlyingWallets": [
       {
         "address": "0xb25416121196C1e54Dd64F3481a5Bad3Ab2DFB2B",
-        "label": "Deposit",
+        "label": "[Old] Deposit",
         "links": [
           {
             "type": "hyperevmscan",
@@ -301,7 +301,7 @@
       },
       {
         "address": "0xBBB2f471a72D4ea4B2C92B65859A503526BB3622",
-        "label": "Onchain Holdings",
+        "label": "[Old] Onchain Holdings",
         "links": [
           {
             "type": "hyperevmscan",
@@ -315,7 +315,7 @@
       },
       {
         "address": "0x9321D8117E73B0c79035F0E87DEbCFd8dbb1D75A",
-        "label": "Withdrawals",
+        "label": "[Old] Withdrawals",
         "links": [
           {
             "type": "hyperevmscan",
@@ -663,7 +663,7 @@
     "vaultUnderlyingWallets": [
       {
         "address": "0x1Da7920cA7f9ee28D481BC439dccfED09F52a237",
-        "label": "Deposits",
+        "label": "[Old] Deposits",
         "links": [
           {
             "type": "hyperevmscan",
@@ -681,7 +681,7 @@
       },
       {
         "address": "0xCA36897Cd0783a558f46407Cd663d0f46d2f3386",
-        "label": "Hypercore Holdings",
+        "label": "[Old] Hypercore Holdings",
         "links": [
           {
             "type": "hypurrscan",
@@ -691,7 +691,7 @@
       },
       {
         "address": "0x51f624E7B5E8bc85F7c798c24048E686D495B283",
-        "label": "Withdrawals",
+        "label": "[Old] Withdrawals",
         "links": [
           {
             "type": "hyperevmscan",
@@ -727,7 +727,7 @@
     "vaultUnderlyingWallets": [
       {
         "address": "0xCA0Eb15d0efF480c15aC9071db8F47aF9b35ce98",
-        "label": "Deposits",
+        "label": "[Old] Deposits",
         "links": [
           {
             "type": "hyperevmscan",
@@ -745,7 +745,7 @@
       },
       {
         "address": "0x975B62b498ed8369F781c2bD2E181EE53612A704",
-        "label": "Hypercore Holdings",
+        "label": "[Old] Hypercore Holdings",
         "links": [
           {
             "type": "hypurrscan",
@@ -755,7 +755,7 @@
       },
       {
         "address": "0x002938EA69c219249Bdde73cE0F0baF3C3001120",
-        "label": "Withdrawals",
+        "label": "[Old] Withdrawals",
         "links": [
           {
             "type": "hyperevmscan",
