@@ -337,7 +337,95 @@
     "showDefault": true,
     "type": "HYPE",
     "color": "#FFCC66",
-    "hasBreakdown": false
+    "hasBreakdown": true,
+    "vaultToken": "0x441794D6a8F9A3739F5D4E98a728937b33489D29",
+    "vaultLink": "https://app.hyperbeat.org/vaults/liqhype",
+    "vaultUnderlyingWallets": [
+      {
+        "address": "0xFC1286EeddF81d6955eDAd5C8D99B8Aa32F3D2AA",
+        "label": "[Old] Deposit",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xFC1286EeddF81d6955eDAd5C8D99B8Aa32F3D2AA"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xFC1286EeddF81d6955eDAd5C8D99B8Aa32F3D2AA"
+          }
+        ]
+      },
+      {
+        "address": "0x83A80e5b64086197c01cbB123dF2AEa79a149C1D",
+        "label": "[Old] Onchain Holdings",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x83A80e5b64086197c01cbB123dF2AEa79a149C1D"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x83A80e5b64086197c01cbB123dF2AEa79a149C1D"
+          }
+        ]
+      },
+      {
+        "address": "0xF47CB913cc80096F84a6Ced24e1ccd047c954cBE",
+        "label": "[Old] Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xF47CB913cc80096F84a6Ced24e1ccd047c954cBE"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xF47CB913cc80096F84a6Ced24e1ccd047c954cBE"
+          }
+        ]
+      },
+      {
+        "address": "0xA03e0e3B7E6204c9A8d237C4fbd30793555A84Fe",
+        "label": "Withdrawals",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xA03e0e3B7E6204c9A8d237C4fbd30793555A84Fe"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xA03e0e3B7E6204c9A8d237C4fbd30793555A84Fe"
+          }
+        ]
+      },
+      {
+        "address": "0xb3F15e41fc1536E47ee7dE20C7b44Fb1eEc70aEC",
+        "label": "Deposits",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0xb3F15e41fc1536E47ee7dE20C7b44Fb1eEc70aEC"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0xb3F15e41fc1536E47ee7dE20C7b44Fb1eEc70aEC"
+          }
+        ]
+      },
+      {
+        "address": "0x813D64AdfA12500F371c518739f2783e99D0Ead6",
+        "label": "Onchain Holdings",
+        "links": [
+          {
+            "type": "hyperevmscan",
+            "url": "https://hyperevmscan.io/address/0x813D64AdfA12500F371c518739f2783e99D0Ead6"
+          },
+          {
+            "type": "debank",
+            "url": "https://debank.com/profile/0x813D64AdfA12500F371c518739f2783e99D0Ead6"
+          }
+        ]
+      }
+    ]
   },
   "hyperbeat_behype_999": {
     "id": "hyperbeat_behype_999",
